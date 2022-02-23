@@ -1,0 +1,1548 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two treatises, the first of blood-letting and the diseases to be cured thereby, the second of cupping and scarifying, and the diseases to be cured thereby by Nich. Culpeper, Gent., M. Ruland, and Abdiah Cole ...</title>
+            <author>Culpeper, Nicholas, 1616-1654.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 105 KB of XML-encoded text transcribed from 49 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35400</idno>
+            <idno type="STC">Wing C7550</idno>
+            <idno type="STC">ESTC R22526</idno>
+            <idno type="EEBO-CITATION">12233532</idno>
+            <idno type="OCLC">ocm 12233532</idno>
+            <idno type="VID">56656</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35400)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56656)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 138:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two treatises, the first of blood-letting and the diseases to be cured thereby, the second of cupping and scarifying, and the diseases to be cured thereby by Nich. Culpeper, Gent., M. Ruland, and Abdiah Cole ...</title>
+                  <author>Culpeper, Nicholas, 1616-1654.</author>
+                  <author>Ruland, Martin, 1532-1602.</author>
+                  <author>Cole, Abdiah, ca. 1610-ca. 1670.</author>
+               </titleStmt>
+               <extent>[8], 86 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Peter Cole ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisements: p. [2]-[8].</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medicine --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:56656:1" rendition="simple:additions"/>
+            <pb facs="tcp:56656:1" rendition="simple:additions"/>
+            <p>TWO TREATISES: The Firſt of BLOOD-LETTING, AND THE Diſeaſes to be cured thereby. The Second of CUPPING AND SCARIFYING, AND THE Diſeaſes to be cured thereby.</p>
+            <p>By
+<list>
+                  <item>
+                     <hi>Nich. Culpeper</hi> Gent.</item>
+                  <item>
+                     <hi>M. Ruland,</hi> And</item>
+                  <item>
+                     <hi>Abdiah Cole,</hi> Doctor of Phyſick.</item>
+               </list>
+            </p>
+            <p>
+               <hi>LONDON.</hi> Printed by <hi>Peter Cole,</hi> Printer and Book-ſeller, at the Sign of the Printing-preſs in <hi>Cornhil,</hi> near the <hi>Royal Exchange.</hi> 1663.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:56656:2" rendition="simple:additions"/>
+            <head>Books Printed by <hi>Peter Cole</hi> and <hi>Edward Cole,</hi> Printers and Book-ſellers of <hi>Lon<g ref="char:EOLhyphen"/>don</hi> at the Exchange.</head>
+            <list>
+               <head>Several Phyſick Books of <hi>Nich. Culpeper,</hi> Phyſitian and Aſtrologer, and <hi>Abdiah Cole</hi> Doctor of Phy<g ref="char:EOLhyphen"/>ſick, commonly called, <hi>The Phyſitian's Library,</hi> containing all the Works in Engliſh of <hi>Riverius, Sennertus, Platerus, Riolanus, Bartholinus.</hi> Viz.</head>
+               <item>1. A GOLDEN Practice of Phyſick: after a new, eaſie and plain Method of know<g ref="char:EOLhyphen"/>ing, foretelling, preventing, and curing all Diſeaſes inci<g ref="char:EOLhyphen"/>dent to the body of Man. Ful of proper Obſervations and Remedies, both of Ancient and Modern Phyſitians. Be<g ref="char:EOLhyphen"/>ing the fruit of one and thir<g ref="char:EOLhyphen"/>ty years Travel, and fifty years Practice of Phyſick. By Dr. <hi>Plater,</hi> Dr. <hi>Cole,</hi> and <hi>Nich. Culpeper.</hi>
+               </item>
+               <item>2. <hi>Sennertus</hi> Practical Phy<g ref="char:EOLhyphen"/>ſick; the firſt Book in three Parts. 1. Of the <hi>Head.</hi> 2. Of the <hi>Hurt</hi> of the internal ſen<g ref="char:EOLhyphen"/>ſes. 3. Of the <hi>external Senſes,</hi> in five Sections.</item>
+               <item>3. <hi>Sennertus</hi> Practical Phy<g ref="char:EOLhyphen"/>ſick; the ſecond Book, in four Parts. 1. Of the <hi>Jaws</hi> and <hi>Mouth.</hi> 2. Of the <hi>Breaſt.</hi> 3. Of the <hi>Lungs.</hi> 4. Of the <hi>Heart.</hi>
+               </item>
+               <item>4. <hi>Sennertus</hi> Third Book of Practical Phyſick in four<g ref="char:EOLhyphen"/>teen Parts, treating, 1. Of the <hi>Stomach</hi> and <hi>Gullet.</hi> 2. Of the <hi>Guts.</hi> 3. Of the <hi>Me<g ref="char:EOLhyphen"/>ſentery, Sweetbread</hi> and <hi>Omen<g ref="char:EOLhyphen"/>tum.</hi> 4. Of the <hi>Spleen.</hi> 5. Of the <hi>Sides.</hi> 6. Of the <hi>Scurvey.</hi> 7 and 8. Of the <hi>Liver.</hi> 9 Of the <hi>Ureters.</hi> 10. Of the <hi>Kid<g ref="char:EOLhyphen"/>nies.</hi> 11. and 12. Of the <hi>Bladder.</hi> 13. and 14. Of the <hi>Privities</hi> and Generation in men.</item>
+               <item>5. <hi>Sennertus</hi> fourth Book of Practical Phyſick in three Parts. <hi>Part.</hi> 1. Of the Diſ<g ref="char:EOLhyphen"/>eaſes in the Privities of wo<g ref="char:EOLhyphen"/>men. The <hi>firſt Section.</hi> Of Diſeaſes of the Privie Part, and the Neck of the Womb. The <hi>ſecond Section.</hi> Of the Diſeaſes of the Womb. <hi>Part</hi> 2. Of the Symptoms in the Womb, and from the Womb.
+<pb facs="tcp:56656:2"/> The <hi>ſecond Section.</hi> Of the Symptoms in the Terms and other Fluxes of the Womb. The <hi>third Section.</hi> Of the Symptoms that befal al Vir<g ref="char:EOLhyphen"/>gins and Women in their Wombs, after they are ripe of Age. The <hi>fourth Section.</hi> Of the Symptoms which are in Conception. The <hi>fifth Section.</hi> Of the Government of Women with Child, and preternatural Diſtempers in Women with Child. The <hi>ſixth Section.</hi> Of Symptoms that happen in Childbearing The <hi>ſeventh Section.</hi> Of the Government of Women in Child-bed, and of the Diſ<g ref="char:EOLhyphen"/>eaſes that come after Travel</item>
+               <item>The <hi>firſt Section.</hi> Of Diſ<g ref="char:EOLhyphen"/>eaſes of the Breaſts. The <hi>ſe<g ref="char:EOLhyphen"/>cond Section.</hi> Of the Sym<g ref="char:EOLhyphen"/>ptoms of the Breaſts.</item>
+               <item>To which is added a Tra<g ref="char:EOLhyphen"/>ctate of the Cure of Infants. <hi>Part</hi> 1. Of the Diet and Government of Infants. The <hi>ſecond Section.</hi> Of Diſeaſes and Symptoms in Children.</item>
+               <item>6. <hi>Sennertus</hi> fifth Book of Practical Phyſick, Or the Art of Chyrurgery in ſix Parts. 1. Of Tumors. 2. Of Ulcers. 3. Of the Skin, Hair and Nails. 4. Of Wounds, with an excellent Treatiſe of the Weapon Salve. 5. Of Fractures. 6. Of Luxations.</item>
+               <item>7. <hi>Sennertus</hi> ſixth and laſt Book of Practical Phyſick in nine Parts. 1. Of Diſeaſes from occult Qualities in ge<g ref="char:EOLhyphen"/>neral. 2. Of occult, ma<g ref="char:EOLhyphen"/>lignant, and venemous Diſ<g ref="char:EOLhyphen"/>eaſes ariſing from the inter<g ref="char:EOLhyphen"/>nal fault of the humors. 3. Of occult Diſeaſes from water, air, and infections, and of infectious diſeaſes. 4. Of the Venereal Pox. 5. Of outward Poyſons in general. 6. Of Poyſons from Mine<g ref="char:EOLhyphen"/>rals and Metals. 7. Of Poy<g ref="char:EOLhyphen"/>ſons from Plants. 8. Of Poy<g ref="char:EOLhyphen"/>ſons that come from Living Creatures. 9. Of Diſeaſes by Witchcraft, Incantation, and Charmes.</item>
+               <item>8. <hi>Sennertus</hi> Treatiſe of Chymiſtry, ſhewing the A<g ref="char:EOLhyphen"/>greement and Diſagreement of Chymiſts and Galeniſts.</item>
+               <item>9. <hi>Sennertus</hi> two Treatiſes. 1. Of the Pox. 2. Of the Gout.</item>
+               <item>10. <hi>Sennertus</hi> thirteen Books of Natural Philoſophy: Or the Nature of all things in the world.</item>
+               <item>11. Twenty four Books of the Practice of Phyſick, being the Works of that Learned
+<pb facs="tcp:56656:3"/> and Renowned Doctor <hi>La<g ref="char:EOLhyphen"/>zarus Riverius,</hi> Phyſitian and Counſellor to the late King, &amp;c.</item>
+               <item>12. Idea of Practical Phy<g ref="char:EOLhyphen"/>ſick in twelve Books.</item>
+               <item>13. <hi>Bartholinus</hi> Anatomy, with very many larger Braſs Figures, than any other Ana<g ref="char:EOLhyphen"/>tomy in Engliſh.</item>
+               <item>14. <hi>Veſlingus</hi> Anatomy of the Body of Man.</item>
+               <item>15. <hi>Riolanus</hi> Anatomy.</item>
+               <item>16. A Tranſlation of the New Diſpenſatory, made by the Colledg of Phyſitians of <hi>London,</hi> in Folio and in O<g ref="char:EOLhyphen"/>ctavo. Whereunto is added, The Key of <hi>Galen's</hi> Method of Phyſick.</item>
+               <item>17. A Directory for Mid<g ref="char:EOLhyphen"/>wives, or a guide for women</item>
+               <item>18. <hi>Galens</hi> Art of Phyſick.</item>
+               <item>19. A new Method both of ſtudying and practiſing Phy<g ref="char:EOLhyphen"/>ſick.</item>
+               <item>20. A Treatiſe of the Ric<g ref="char:EOLhyphen"/>kets.</item>
+               <item>21. Medicaments for the Poor: Or, Phyſick for the Common People.</item>
+               <item>22. Health for the Rich and Poor, by Diet without Phyſick</item>
+               <item>23. One thouſand New, Famous and Rare Cures, in Folio and Octavo.</item>
+               <item>24. A Treatiſe of Pulſes and Urins.</item>
+               <item>25. A Treatiſe of Blood-letting, and Cures perfor<g ref="char:EOLhyphen"/>med thereby.</item>
+               <item>26. A Treatiſe of Scarifi<g ref="char:EOLhyphen"/>cation, and Cures perfor<g ref="char:EOLhyphen"/>med thereby.</item>
+               <item>27. The Engliſh Phyſi<g ref="char:EOLhyphen"/>tian enlarged.</item>
+               <item>The <hi>London Diſpenſatory</hi> in Folio, of a great Caracter in Latin.</item>
+            </list>
+            <list>
+               <head>Divinity Books Printed by <hi>Peter Cole,</hi> &amp;c. Eighteen Several Books of Mr. <hi>Burroughs</hi>'s viz. on <hi>Matth.</hi> 11.</head>
+               <item>1 Chriſts Call to all thoſe that are weary and heavy la<g ref="char:EOLhyphen"/>den, to come to him for reſt.</item>
+               <item>2 Chriſt the great Teacher of Souls that come to him.</item>
+               <item>3 Chriſt the Humble Tea<g ref="char:EOLhyphen"/>cher of thoſe that come to him.</item>
+               <item>4 The only eaſie way to Heaven.</item>
+               <item>5 The Excellency of Ho<g ref="char:EOLhyphen"/>ly Courage in Evil times.</item>
+               <item>6 Goſpel Reconciliation.</item>
+               <pb facs="tcp:56656:3"/>
+               <item>7 The Rare Jewel of Chriſtian Contentment.</item>
+               <item>8 Goſpel-Worſhip.</item>
+               <item>9 Goſpel-Converſation.</item>
+               <item>10 A Treatiſe of <hi>Earthly Mindedneſs,</hi> and of <hi>Heavenly Mindedneſs,</hi> and Walking with God. And eight ſeve<g ref="char:EOLhyphen"/>ral Books more.</item>
+            </list>
+            <list>
+               <head>Twenty one ſeveral Books of Mr. <hi>William Bridge,</hi> Col<g ref="char:EOLhyphen"/>lected into two Volumes, <hi>Viz.</hi>
+               </head>
+               <item>1 Scripture light, the moſt ſure Light.</item>
+               <item>2 Chriſt in Travel.</item>
+               <item>3 A lifting up for the caſt down.</item>
+               <item>4 Sin againſt the Holy Ghoſt.</item>
+               <item>5 Sins of Infirmity.</item>
+               <item>6 The falſe Apoſtle tried and diſcovered.</item>
+               <item>7 The good and means of Eſtabliſhment.</item>
+               <item>8 The great things Faith can do.</item>
+               <item>9 The great things Faith can ſuffer.</item>
+               <item>10 The great Goſpel My<g ref="char:EOLhyphen"/>ſtery of the Saints Comfort and Holineſs, opened and applied from Chriſts Prieſt<g ref="char:EOLhyphen"/>ly Office. And eleven ſeve<g ref="char:EOLhyphen"/>ral Books more.</item>
+            </list>
+            <list>
+               <head>New Books of <hi>Mr.</hi> Sy<g ref="char:EOLhyphen"/>drach Sympſon, VIZ.</head>
+               <item>1 Of Unbelief, or the want of readineſs to lay hold on the comfort given by Chriſt.</item>
+               <item>2 Not going to Chriſt for Life and Salvation, is an ex<g ref="char:EOLhyphen"/>ceeding great ſin, yet pardo<g ref="char:EOLhyphen"/>nable.</item>
+               <item>3 Of Faith, <hi>Or,</hi> That be<g ref="char:EOLhyphen"/>lieving is receiving Chriſt; and receiving Chriſt, is be<g ref="char:EOLhyphen"/>lieving.</item>
+               <item>4 Of Coveteouſneſs.</item>
+            </list>
+            <list>
+               <head>Mr. <hi>Hookers</hi> New Books in three Volumes: One in O<g ref="char:EOLhyphen"/>ctavo, and two in Quarto.</head>
+               <item>Theſe Eleven New Books of Mr. <hi>Thomas Hooker</hi> made in <hi>New-England,</hi> are atteſt<g ref="char:EOLhyphen"/>ed in an Epiſtle by Mr. <hi>Tho<g ref="char:EOLhyphen"/>mas Goodwin</hi> and Mr. <hi>Philip Nye,</hi> to be written with the Authors own hand: None being written by himſelf be<g ref="char:EOLhyphen"/>fore. One Volume being a Comment upon Chriſt's laſt Prayer, in the ſeventeenth o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>John. Wherein is ſhewed,</hi>
+                  <list>
+                     <item>1 That the end why the Saints receive all Glorious
+<pb facs="tcp:56656:4"/> Grace, is, That they may be one, as the Father and Chriſt are one.</item>
+                     <item>2 That God the Father loveth the Faithful, as he lo<g ref="char:EOLhyphen"/>veth Jeſus Chriſt.</item>
+                     <item>3 That our Savior deſi<g ref="char:EOLhyphen"/>reth to have the Faithful in Heaven with himſelf.</item>
+                     <item>4 That the Happineſs of our being in Heaven, is to ſee Chriſts Glory.</item>
+                     <item>5 That there is much wanting in the Knowledg of Gods Love, in the moſt able Saints.</item>
+                     <item>6 That the Lord Chriſt lends daily Direction, accor<g ref="char:EOLhyphen"/>ding to the daily need of his Servants.</item>
+                     <item>7 That it is the deſire and endeavor of our Savior, that the deareſt of Gods Love, which was beſtowed on him<g ref="char:EOLhyphen"/>ſelf, ſhould be given to his faithful Servants.</item>
+                     <item>8 That our Union and Communion with God in Chriſt, is the top of our hap<g ref="char:EOLhyphen"/>pineſs in Heaven.</item>
+                  </list>
+               </item>
+               <item>Ten Books of Applicati<g ref="char:EOLhyphen"/>on of Redemption by the ef<g ref="char:EOLhyphen"/>fectual Work of the Word, and Spirit of Chriſt, for the bringing home of loſt ſinners to God: By <hi>Thomas Hooker</hi> of <hi>New-England.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Dr. <hi>Hills</hi> WORKS.</head>
+               <item>The Kings Tryal at the High Court of Juſtice.</item>
+               <item>The wiſe Virgin: Publiſhed by Mr. <hi>Thomas Weld,</hi> of <hi>New-England.</hi>
+               </item>
+               <item>Mr. <hi>Rogers</hi> on <hi>Naaman</hi> the Syrian, his Diſeaſe and Cure diſcovering the Leproſie of Sin and Self-love, with the Cure, <hi>viz.</hi> Self-denial and Faith.</item>
+               <item>A Godly and fruitful Ex<g ref="char:EOLhyphen"/>poſition, on the firſt Epiſtle of <hi>Peter:</hi> By Mr. <hi>John Ro<g ref="char:EOLhyphen"/>gers,</hi> Miniſter of the word of God at <hi>Dedham</hi> in <hi>Eſſex.</hi>
+               </item>
+               <item>An Expoſition on the Goſ<g ref="char:EOLhyphen"/>pel of the Evangeliſt St. <hi>Ma<g ref="char:EOLhyphen"/>thew:</hi> By Mr. <hi>Ward.</hi>
+               </item>
+               <item>Mr. <hi>Rogers</hi> his Treatiſe of Marriage.</item>
+               <item>The wonders of the Load-ſtone: By <hi>Samuel Ward</hi> of <hi>Ipſwitch.</hi>
+               </item>
+               <item>The Diſcipline of the Church in <hi>New-England:</hi> By the Churches and Synod there.</item>
+               <item>Mr. <hi>Brightman</hi> on the Re<g ref="char:EOLhyphen"/>velation.</item>
+               <item>Great Church Ordinance of Baptiſm.</item>
+               <pb facs="tcp:56656:4"/>
+               <item>Mr. <hi>Loves</hi> Caſe, containing his Petitions, Narrative and Speech.</item>
+               <item>A Congregational Church is a Catholick viſible Church By <hi>Samuel Stone</hi> in <hi>New-En<g ref="char:EOLhyphen"/>gland.</hi>
+               </item>
+               <item>A Treatiſe of Politick Po<g ref="char:EOLhyphen"/>wers.</item>
+               <item>Dr. <hi>Sibbs</hi> on the Philip<g ref="char:EOLhyphen"/>pians.</item>
+               <item>
+                  <hi>Vox Pacifica,</hi> or a Perſwa<g ref="char:EOLhyphen"/>ſive to Peace.</item>
+               <item>Dr. <hi>Preſtons</hi> Saints ſubmiſ<g ref="char:EOLhyphen"/>ſion, and Satans Overthrow.</item>
+               <item>Pious Mans Practice in Parliament time.</item>
+               <item>
+                  <hi>Barriffs</hi> Military Diſcipline</item>
+               <item>The Immortality of Mans Soul.</item>
+               <item>The Anatomiſt Anatomi<g ref="char:EOLhyphen"/>zed.</item>
+               <item>The Biſhop of <hi>Canterburys</hi> Speech.</item>
+               <item>
+                  <hi>Woodwards</hi> ſacred Ballance.</item>
+               <item>Dr. <hi>Owen againſt</hi> Mr. <hi>Baxter.</hi>
+               </item>
+               <item>Abrahams offer, Gods Of<g ref="char:EOLhyphen"/>fering: Being a Sermon by Mr. <hi>Herle,</hi> before the Lord Major of <hi>London.</hi>
+               </item>
+               <item>Mr. <hi>Spurſtows</hi> Sermon, be<g ref="char:EOLhyphen"/>ing a pattern of Repentance.</item>
+               <item>
+                  <hi>Englands</hi> Deliverance from the Northern Presbitery: By <hi>Peter Sterry.</hi>
+               </item>
+               <item>The Way of God with his People in theſe Nations: By <hi>Peter Sterry.</hi>
+               </item>
+               <item>The true Way of uniting the People of God in theſe Nations: By <hi>Peter Sterry.</hi>
+               </item>
+               <item>Mr. <hi>Sympſon's</hi> Sermon at <hi>Weſtminſter.</hi>
+               </item>
+               <item>Mr. <hi>Feaks</hi> Sermon before the Lord Major.</item>
+               <item>The beſt and worſt Magi<g ref="char:EOLhyphen"/>ſtrate: By <hi>Obadiah Sedgwick.</hi> A Sermon.</item>
+               <item>A Sacred Panegyrick: By <hi>Stephen Marſhal.</hi> A Sermon.</item>
+               <item>The Craft and Cruelty of the Churches Adverſaries: By <hi>Matthew Newcomen</hi> of <hi>Dedham.</hi> A Sermon.</item>
+               <item>Mr. <hi>Nyes</hi> Sermon of the uſe<g ref="char:EOLhyphen"/>fulneſs of a powerful Mini<g ref="char:EOLhyphen"/>ſtry to the Civil Governor. Dr. <hi>Owens</hi> ſtedfaſtneſs of the Promiſes.</item>
+            </list>
+            <list>
+               <head>Mr. <hi>Stephen Marſhals</hi> New WORKS.</head>
+               <item>1 Of Chriſts Interceſſion, or of ſins of Infirmity.</item>
+               <item>2 The high Priviledg of Believers, That they are the Sons of God.</item>
+               <item>3 Faith the means to feed on Chriſt.</item>
+               <item>4 Of Self-denial.</item>
+               <item>5 The Saints Duty to keep their Hearts, <hi>&amp;c.</hi>
+               </item>
+               <item>6 The Myſtery of Spiritu<g ref="char:EOLhyphen"/>al Life.</item>
+            </list>
+            <list>
+               <pb facs="tcp:56656:5"/>
+               <item>
+                  <hi>Taylors</hi> Capitulae Patrum. —on the Lamentations in Latin</item>
+               <item>
+                  <hi>Fullwood</hi> of Errors.</item>
+               <item>
+                  <hi>Des Crates</hi> on the Paſſions of the Soul.</item>
+               <item>Hobbs <hi>de Corpore Politico.</hi>
+               </item>
+               <item>
+                  <hi>Whites</hi> State of future Li<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e.</item>
+               <item>
+                  <hi>Greaves</hi> Grand Seraglio: Or the Turks Court.</item>
+               <item>
+                  <hi>Cowells</hi> Inſtitutes of the Civil Law.</item>
+               <item>
+                  <hi>Montroſs Redivivus.</hi> Or the Hiſtory of <hi>Montroſs,</hi> &amp;c.</item>
+               <item>The Royal Game at Pic<g ref="char:EOLhyphen"/>quet.</item>
+               <item>
+                  <hi>Jones</hi> Cauſe and Cure o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> our Diviſions.</item>
+            </list>
+         </div>
+         <div type="to_the_reader">
+            <head>To the Phyſical Reader.</head>
+            <p>THe greateſt Reaſon that I could ever obſerve, why the Medicines preſcribed in the Phyſick Books before men<g ref="char:EOLhyphen"/>tioned, do not (ſomtimes) perform the Cures promiſed, is, the unskilfulneſs of thoſe that make up the Medicines. I therefore adviſe all thoſe that have occaſion to uſe any Medicines, to go or ſend to Mr. <hi>Ralph Clarke</hi> Apothecary, at the ſign of the three Crowns on <hi>Ludgate-Hill,</hi> in <hi>London;</hi> where they ſhall be ſure to have ſuch as are skilfully and honeſtly made.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb n="1" facs="tcp:56656:5"/>
+            <head>OF BLOOD-LETTING AND THE Diſeaſes to be cured thereby.</head>
+            <div type="subpart">
+               <head>What Blood-letting or Phlebotomy is?</head>
+               <p>
+                  <seg rend="decorInit">I</seg>T is an Univerſal evacuation of fulneſs of humors or Plethory. And Plethory is the increaſe of humors above equality in the Veins.</p>
+               <p>The knowledg of Complexions is re<g ref="char:EOLhyphen"/>quiſite to Phlebotomy.</p>
+               <p>The ſigns of a ſanguine complexion are containd in theſe Verſes.</p>
+               <lg>
+                  <l>By nature they are fat and love to hear</l>
+                  <l>News and reports, to drink and make good cheer,</l>
+                  <l>To court fair Ladies, and to laugh and ſing</l>
+                  <pb n="2" facs="tcp:56656:6"/>
+                  <l>And play the Poets, and learn any thing.</l>
+                  <l>To Wrath not prone, but noble, kind and free,</l>
+                  <l>Abounding much in liberatilie.</l>
+                  <l>Of red Complexion like the fragrant roſe,</l>
+                  <l>And bold as <hi>Hector</hi> to affront their foes.</l>
+               </lg>
+            </div>
+            <div type="subpart">
+               <head>Signs of Plethory and Blood abounding.</head>
+               <l>When blood abounds the face is over red,</l>
+               <l>The eyes fart out, and cheeks are fully fed,</l>
+               <l>The body is unwildy, pulſe is quick,</l>
+               <l>Full, ſoft, and in the forehead there doth ſtick</l>
+               <l>A tearing pain, the belly it is bound.</l>
+               <l>The tongue is dry, with thirſt, and ſleep profound.</l>
+               <l>Spittle is ſweet, and when they ſharp things take</l>
+               <l>The taſt is ſweet, it cannot no difference make.</l>
+            </div>
+            <div type="subpart">
+               <head>Signs of the cholerick Complexion and of Choler abounding.</head>
+               <l>Choler's a humor raign's in furious men</l>
+               <l>That ſtrive to lord it o're their brethren;</l>
+               <l>They learn but ſlowly, but can eat apace</l>
+               <l>From whence they grow, in ſtature, and in face</l>
+               <pb n="3" facs="tcp:56656:6"/>
+               <l>And heart are bold, ſtill ſoaring above all</l>
+               <l>Crafty, deceitful, angry, prodigal,</l>
+               <l>Slender, rough, dry, and yellow is their skin.</l>
+               <l>If tongue be parcht with heat, and noiſe within</l>
+               <l>The ears, with watching, and with vomi<g ref="char:EOLhyphen"/>ting,</l>
+               <l>And thirſt, fat ſtools, and pain, and belly wing</l>
+               <l>With loathing: heartach: want of appetite.</l>
+               <l>If pulſe be hard, and ſwift, and hot, and light,</l>
+               <l>Mouth dry and bitter, and of fire thou dream,</l>
+               <l>Be ſure that choler is in thee ſupream.</l>
+            </div>
+            <div type="subpart">
+               <head>Signs phlegmatick Complexion, and of Flegm abounding.</head>
+               <l>Flegm makes men ſtrong; of ſtature broad and low</l>
+               <l>They flatter, then the ſanguine men do grow,</l>
+               <l>They idleneſs affect, their ſenſe is dull,</l>
+               <l>And in much ſleep they do their bodies lull.</l>
+               <l>They move as ſlowly as the houſed ſnail,</l>
+               <l>And are of colour very wanne and pale.</l>
+               <l>Flegm makes unſavoury taſt, which meat doth loath</l>
+               <l>With ſpitting; pain in head and ſtomach both</l>
+               <pb n="4" facs="tcp:56656:7"/>
+               <l>The pulſe is ſeldom, ſlow, and ſoft, and wide,</l>
+               <l>With dreams of water, where the flegm doth guide.</l>
+            </div>
+            <div type="subpart">
+               <head>Signs of Melancholick Complexion and of Melancholy abounding.</head>
+               <l>It makes men evil, ſad, and ſlow to ſpeak,</l>
+               <l>To be contemplative, and ſleep to break,</l>
+               <l>To be reſolved, but think nothing faſt,</l>
+               <l>Envy and avarice in them doth laſt.</l>
+               <l>Deceit and fear, the colour of their skin</l>
+               <l>Is ſad and black, pulſe hard, and urin thin.</l>
+               <l>They dream of Ghoſts, Hobgoblins and Cells.</l>
+               <l>They yawn and belch, from wind that in them dwells.</l>
+               <l>They spit, and spawle, and reliſh very ſour,</l>
+               <l>And in their left ear is a noiſe each hour.</l>
+            </div>
+            <div type="subpart">
+               <head>What Age is fit for Phlebotomy.</head>
+               <l>Before the ſeventeenth yeer draw none at al.</l>
+               <l>In middle age oft for the Surgeon call.</l>
+               <l>Old folk and children muſt but little bleed,</l>
+               <l>And then when as there is apparent need.</l>
+            </div>
+            <div type="subpart">
+               <head>An Addition.</head>
+               <p>At this time in great neceſſity, eſpeci<g ref="char:EOLhyphen"/>ally in a Pleuriſie and other ſtrong diſ<g ref="char:EOLhyphen"/>eaſes, we bleed with good ſucceſs; in the
+<pb n="5" facs="tcp:56656:7"/> fourth or fifth year three or four ounces. The middle age is from thirty to forty five or fifty.</p>
+            </div>
+            <div type="subpart">
+               <head>What things hinder Phlebotomy.</head>
+               <l>Bleed not at all, when the Complexions cold</l>
+               <l>Nor in cold weather, nor when pain doth hold</l>
+               <l>With violence, nor after thou haſt been</l>
+               <l>In baths, or ſporting with thy Fancy's queen</l>
+               <l>Nor after tedious ſickneſs, nor when</l>
+               <l>Thou art by meat or drink a ſhame to men.</l>
+               <l>Bleed not too yong, nor when thou art too old,</l>
+               <l>Nor when thy ſtomachs weak with ſenſe of cold.</l>
+            </div>
+            <div type="subpart">
+               <head>Addition.</head>
+               <p>To theſe add. Bleed not in the begin<g ref="char:EOLhyphen"/>ning of a Diſeaſe, for the Criſis is the day of the motion of ſickneſs, or in the fit, nor before the Guts are clenſed from excre<g ref="char:EOLhyphen"/>ments, nor in the time of the Natural courſes of women nor in the flux of the Haemorrhoids; nor after a cholerick diſ<g ref="char:EOLhyphen"/>eaſe, and the like, of which we ſhal ſpeak in the Aphoriſms for bleeding.</p>
+            </div>
+            <div type="subpart">
+               <head>At what time Bleeding is good.</head>
+               <l>In every month thou lawfully maieſt bleed,</l>
+               <l>If blood abound, and thou a vent doſt need.</l>
+               <pb facs="tcp:56656:8"/>
+               <l>
+                  <hi>April</hi> and <hi>May</hi> the Liver-vein is beſt.,</l>
+               <l>
+                  <hi>September</hi>'s for the Spleen; and for the reſt</l>
+               <l>In Winter take the Vein comes from the head,</l>
+               <l>And in the Autumn let the Feet be bled.</l>
+               <l>In Summer, open ſtill the Liver-vein.</l>
+               <l>In Spring, that of the Heart cal'd Median.</l>
+            </div>
+            <div type="subpart">
+               <head>What is to be done in Bleeding.</head>
+               <p>When you let Blood make a large ori<g ref="char:EOLhyphen"/>fice to let out the Wind and the Blood more freely, after Bleeding let him not ſleep for ſix hours: make not too deep an orifice, leaſt thou prick a Nerve, and let him not eat preſently after bleeding. It is good to bath two or three daies a<g ref="char:EOLhyphen"/>fore bleeding and three or four daies af<g ref="char:EOLhyphen"/>ter, give Wine afore and in time of blee<g ref="char:EOLhyphen"/>ding, if you fear ſwounding, move before and after by gentle walking.</p>
+            </div>
+            <div type="subpart">
+               <head>What is to be avoided after Bleeding.</head>
+               <p>Abſtain from milk, meats and drink, and cold things, and keep from foul wea<g ref="char:EOLhyphen"/>ther: cleer Air is good and reſt; for mo<g ref="char:EOLhyphen"/>tion often hurteth</p>
+            </div>
+            <div type="subpart">
+               <head>Of the Effects and profit of Phlebotomy.</head>
+               <p>It cheereth the ſad, appeaſeth the an<g ref="char:EOLhyphen"/>gry; and keeps Lovers from madneſs: it cleereth the ſight, and makes the Brain
+<pb n="7" facs="tcp:56656:8"/> warm, and the marrow. It purgeth the bowels, ſtomach and belly, purifieth the ſenſes, cauſeth ſleep. It mends the hear<g ref="char:EOLhyphen"/>ing, and voyce and increaſeth ſtrength.</p>
+            </div>
+            <div type="subpart">
+               <head>What Vein is to be opened ſafely, and pro<g ref="char:EOLhyphen"/>fit bleeding bringeth.</head>
+               <div type="section">
+                  <head>
+                     <hi>I.</hi> The Vein between the Eye-brows in the middle of the Forehead, called <hi>Recta</hi> or <hi>Preparata</hi> is opened.</head>
+                  <p>Againſt old Infirmities, foul Ulcers, the Leproſie, Scab, Morphew, Impetigo, Itch, diſeaſes of the Eyes, old Head-ach, heavineſs behind in the Head, diſeaſes of the Brain, Madneſs.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>II.</hi> The two twiſting Veins in the Temples are opened either of them.</head>
+                  <p>Againſt the half head-ach, great head-ach, and long ſickneſs, old ſore Eyes, blear Eyes, miſts in the Eyes, ſpots, films tears and webs in the Eyes, ſcabs in the Eye-lids, Nyctilops, and to make barren<g ref="char:EOLhyphen"/>neſs.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>III.</hi> The Vein againſt the little corner of the Eye is opened a little above the jugal bone.</head>
+                  <p>Againſt diſeaſes of the Eyes, Head-diſeaſes
+<pb facs="tcp:56656:9"/> abated, Head-ach, half Hed-ach, Pannus, Tears, old ſore Eyes, Nycti<g ref="char:EOLunhyphen"/>lops, ſcabs in the Eye-brows.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>IV.</hi> The Veins about or behind the Ears in the hollow, which appear when the Throat is tied, and are in that place where you may feel a beating with your finger are opened</head>
+                  <p>Againſt half Head-ach, old Catarrhs, ſcald head, to refreſh and reſtore the me<g ref="char:EOLhyphen"/>mory, ulcers in the Ears and Neck, to clenſe the Face, againſt Tooth-ach from defluxion, the head open, and againſt ul<g ref="char:EOLhyphen"/>cers and all pain.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>V.</hi> The Vein in the tip of the Noſe between the two Griſtles is opened.</head>
+                  <p>Againſt Phrenzies, ſharp Feavers, old Head-ach, old red Faces, diſeaſes in the Eyes and bleareyedneſs, heavineſs of head, Haemorrhoids, Itching of the Noſe, Apoſtem of the Noſe, Bothor.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>VI.</hi> The two viſible Veins under the Tongue are opened.</head>
+                  <p>Againſt Impoſthumations of the throat
+<pb n="9" facs="tcp:56656:9"/> and mouth, and other Diſtempers there, and Quinzy after the Head-vein is firſt opened, of Impoſthumes in the Almonds, heavineſs of Tongue, Apoplexy, Tooth<g ref="char:EOLhyphen"/>ach, and Diſeaſes in the Gums, Catarhs, Pannus, Cough, and diſtempers in the Jaws and Cheeks.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>VII.</hi> The Vein between the Skin and lower Lip is opened.</head>
+                  <p>Againſt ſtinking breath, Corroſion of the Gums and rottenneſs, Ulcers of the Noſe, and diſtempers in the Face and Noſe pains in Womens breaſts and head-ach.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>VIII.</hi> The Veins in the Lips are opened.</head>
+                  <p>Againſt Impoſthumes of the Mouth and Gums, the Head-vein being firſt opened. Againſt want of Breath and Leproſie.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>IX.</hi> The two Veins in the ſides of the Neck, call d <hi>Gindegi,</hi> they grow large in Singing-men, and when men hold their breath, if the Neck be bound with a Towel are opened</head>
+                  <p>Againſt <hi>Impetigo</hi> or <hi>Serpigo</hi> or Itch,
+<pb n="10" facs="tcp:56656:10"/> 
+                     <hi>Noli me tangere</hi> or Canker, ſwollen Gums, Quinzy, Aſthma, Hoarſneſs. Im<g ref="char:EOLhyphen"/>poſthume of the Lungs, Diſpnoea, fits of the Spleen, ſide-pains.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>X.</hi> The Head-vein called Cephalica hume<g ref="char:EOLhyphen"/>raria, and Cubit between the Thumb and fore-finger without danger is o<g ref="char:EOLhyphen"/>pened there, and in the upper part of bending of the Arm.</head>
+                  <p>Againſt hot pains of the Heart, half Head-ach, Madneſs, Flux of the Eyes, Epilepſie, all Diſeaſes in the Ears, Tu<g ref="char:EOLhyphen"/>mors in the Head, all hurts in the Tongue and diſtempers of the Stomach, and Feavers if it be opened in both Hands.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>XI.</hi> The Median in the middle of the bending of the Arm, between the Head-vein and the Baſilick or Liver-vein It is called the common, black or Heart-vein is opened.</head>
+                  <p>Againſt evacuation of all humors and hot diſtempers of the whole body, all Diſeaſes in the Heart, loſt Appetite, all Paſſions; of the Ribs, Stomach, Spleen,
+<pb n="11" facs="tcp:56656:10"/> Liver, Sides, Lungs, Breaſt, and whole body.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>XII.</hi> The Baſilick Vein which is called the great Vein, or inward or Liver-vein is o<g ref="char:EOLhyphen"/>pened for evacuation and all Diſeaſes</head>
+                  <p>In the Liver, Breaſt, Lungs, Stomach, Spleen, Pleura, againſt Choler from the Liver too hot, Toothach, or pain of the Back, Ribs, Sides, and all the members, bleeding of the Noſe, and Feavers.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>XIII.</hi> The Salvatella or veins called <hi>Scelles</hi> or Spleen-vein, between the ring and lit<g ref="char:EOLhyphen"/>tle finger, is opened ſafely in the right hand, for</head>
+                  <p>Stoppage and Diſeaſes of the Liver; and in the left hand, for diſeaſes of the Spleen: it is good alſo againſt eva<g ref="char:EOLhyphen"/>cuations and Diſeaſes of the Spleen, Li<g ref="char:EOLhyphen"/>ver, Breaſt, Voyce and Stomach, Heart-ach, Jaundies, all Feavers, ſtoppage of the Breaſt, want of Appetite, diſtempers in the Face, Paleneſs, and yellowneſs of the Eyes.</p>
+               </div>
+               <div type="section">
+                  <pb n="12" facs="tcp:56656:11"/>
+                  <head>
+                     <hi>XIV.</hi> The Ham-vein called <hi>Vena poplitis</hi> un<g ref="char:EOLhyphen"/>der the Knee in the bending is better to be opened than the Saphena.</head>
+                  <p>To provoke Terms, againſt pain in the Fundament and Loyns, Haemmorrhoids, and pain in the Bladder and Stones and Feet, all Gouts or Joynt-pains</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>XV.</hi> The Sciatica vein in the Ankles of both Feet or thereabout is to be opened.</head>
+                  <p>Againſt Sciatica Gout, Elephantiaſis or Leproſie, Va<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ices, pains in the Bladder, Dyſury or difficulty of Urin, Ulcers and ſwellings in the Stones, and ſwellings, and Ulcers of the Kidneys and the like.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>XVI.</hi> The Saphena under the inward Ankle of both Feet, ſomtimes upon the Ankle, or on the ſides of it, is often opened.</head>
+                  <p>Againſt all paſſions of the Mother, and of the Stones; againſt old Scabs and ſalt flegm, pains of the Hips and Legs to provoke the Terms, and Haemorrhoids
+<pb n="13" facs="tcp:56656:11"/> to purge the Womb, Afterbirth, to take away Barreneſs; againſt Diſeaſes of the Yard and Stones, to draw blood from the Mother, Yard and Stones.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>XVII.</hi> The Vein in both Inſteps upon the great Toe, is opened</head>
+                  <p>Againſt Diſeaſes of the Bladder, and ſpots in the Face, Ophthalmy or ſore Eyes, redneſs and Bleareydneſs, Cancer and Varices or Veins in the Legs, and the Diſeaſes which the Saphena is opened a<g ref="char:EOLhyphen"/>gainſt.</p>
+               </div>
+               <div type="section">
+                  <head>
+                     <hi>XVIII.</hi> The Veins in both the little Toes are opened.</head>
+                  <p>Againſt hurts in the Reins, Heavineſs and Wearineſs of Limbs, Apoplexy, Pal<g ref="char:EOLhyphen"/>ſie and Epilepſie.</p>
+               </div>
+            </div>
+         </div>
+         <div type="part">
+            <pb n="14" facs="tcp:56656:12"/>
+            <head>A Catalogue Alphabetical OF ALL Diſeaſes that may, and ought to be cured by Phlebotomy.</head>
+            <list>
+               <head>A</head>
+               <item>ABortion to avoid it, open the Median in the firſt months.</item>
+               <item>Againſt Alcola or Impoſthume in the mouth, open the Veins in the Lips.</item>
+               <item>Anchus, open the Sciatica.</item>
+               <item>Againſt <hi>Anhalitus</hi> or difficult breath<g ref="char:EOLhyphen"/>ing, open the Gindegi or Veins on each ſide the throat, or the Veins under the tongue.</item>
+               <item>
+                  <hi>Anhelitus foetor</hi> or ſtinking breath, o<g ref="char:EOLhyphen"/>pen the Vein under the Chin.</item>
+               <item>Againſt <hi>Angina</hi> or Quinzie, firſt open the Head-vein and then theſe under the tongue, or Gindegi in the Neck.</item>
+               <item>Almonds impoſthumed, open the vein under the tongue above the Chin, or both Veins under the Tongue.</item>
+               <pb n="15" facs="tcp:56656:12"/>
+               <item>
+                  <hi>Animi deliquium</hi> of Swounding, open the Vein in the middle of the Forehead.</item>
+               <item>
+                  <hi>Anus</hi> or Fundament, if it be diſtempe<g ref="char:EOLhyphen"/>red, open one of the four veins above the Groyns on both ſides. If pained, open the Saphaena. If inflamed, open that of the Arm. If there be a hot Impoſthume, open the Baſilick.</item>
+               <item>Againſt Apoſthumes of the <hi>Anus,</hi> if cold, open the Head-vein in the Hand. If it come forth, open the Vein under the Ankle and the Salvatella.</item>
+               <item>Againſt the Appetite dog-like, open the Salvatella on the left Foot.</item>
+               <item>Apoplexie, open the Ham-vein or An<g ref="char:EOLhyphen"/>kle-vein, or Humeraria in the bending of the Arm, or that between the Thumb and Fore-finger, or let the Noſe bleed. If you firſt open the Saphaena, and then that in the tip of the Noſe it doth wonders. Or open the two Cephalicks, or the two Veins in both little Toes, or them under the Tongue.</item>
+               <item>Againſt Apoſtems internal, open the Median.</item>
+               <item>Apoſtums of the Liver, ſee <hi>Jecur</hi> or <hi>He<g ref="char:EOLhyphen"/>par.</hi>
+               </item>
+               <item>Apoſtums and pains of the Kidneys, Loins, Thighs, Hips, Bladder, open the
+<pb n="16" facs="tcp:56656:13"/> Veins under both Knees.</item>
+               <item>Arthritick, Articular, or Joynt-pains, open firſt the Baſilick, then the Saphena, or Sciatica Vein; and the right Baſilick, if it be on the right ſide, and the left, if on the left.</item>
+               <item>It it be in the Hand, open the Sciatica on the ſame ſide, or the Ham-vein.</item>
+               <item>Againſt Aſthma, open the Median on the right ſide, if it be from Blood, if from Vapors on the left ſide, or the two veins on each ſide the Neck; or open the veins under the Tongue, or the Baſilick, or in<g ref="char:EOLhyphen"/>ternal Vein in the Arm.</item>
+               <item>
+                  <hi>Auditus</hi> or Hearing to quicken, open the beating Vein, or that on both ſides the Noſe.</item>
+               <item>
+                  <hi>Aurium dolores,</hi> or d<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſeaſes of the Ear, open the Veins in the Temples, or firſt the Cephalick on the contrary ſide, and then on the ſame ſide.</item>
+               <item>If Blood flow out of the Ears, open the Cephalica on the contrary ſide. If there be an Ulcer, open the hearing Vein, or a<g ref="char:EOLhyphen"/>bout the Ear. If Inflammation and Al<g ref="char:EOLhyphen"/>monds, open that under the Ear. If there be noiſe or deafneſs begun, open the veinabout the Ear.</item>
+               <item>Againſt <hi>Axillarum tumorem,</hi> or Swel<g ref="char:EOLhyphen"/>ling
+<pb n="17" facs="tcp:56656:13"/> in the Armpits, open the inward vein of the left Arm, if it ſwel not, to the ben<g ref="char:EOLhyphen"/>ding of the Arm.</item>
+            </list>
+            <list>
+               <head>B.</head>
+               <item>Bilious or Cholerick Humors, are e<g ref="char:EOLhyphen"/>vacuated by opening the internal Vein in the Arm.</item>
+               <item>
+                  <hi>Bilis atra</hi> or Melancholy, by the in<g ref="char:EOLhyphen"/>ward Vein on the left Arm.</item>
+            </list>
+            <list>
+               <head>C.</head>
+               <item>Againſt <hi>Calculus</hi> or Stone in the Kid<g ref="char:EOLhyphen"/>neys, open the Sciatica Vein, or Saphena in the Ankle on both Feet.</item>
+               <item>
+                  <hi>Calculus</hi> or Stone in the Bladder, open the Saphena's.</item>
+               <item>
+                  <hi>Calor</hi> or Natural heat abounding, open the Vein by the Thumb.</item>
+               <item>In Diſeaſes <hi>Capitis,</hi> or of the Head both internal and external, open the hu<g ref="char:EOLhyphen"/>merary Vein, or Cephalick in the right Arm; if on the right ſide and the left, if on the left, or that between the Thumb, and the Fore-finger, or the Noſe, or the Vein under the Chin. Or that under the Tongue, or the external Jugular <hi>Ve<g ref="char:EOLhyphen"/>na puppis,</hi> or the Cephalick of the left
+<pb n="18" facs="tcp:56656:14"/> Hand, or thoſe of the Temples, or the Salvatella, for pain before in the Head, open that in the middle of the Forehead, for Feavers with Headach, open the Me<g ref="char:EOLhyphen"/>dian. For old Headach, the frontal vein or the Arteries behind the Ears, or the Temple Veins. In Catarrhs, open <hi>Vena puppis,</hi> or thoſe under the Tongue, or that in the Noſe, or about the Ears. Exter<g ref="char:EOLhyphen"/>nal Jugular, or thoſe on both ſides of the Noſe, or the four Palate veins. Againſt heavineſs, or pain behind the Head, open the Frontal Vein. Againſt Ulcers and Scabs in the Head, open the Noſe Vein, or in the Temples, or about the Ears. A<g ref="char:EOLhyphen"/>gainſt Trembling, Giddineſs and Pain, o<g ref="char:EOLhyphen"/>pen the Vein in the Hollow of the Ear. Againſt Melancholy, open that between the Thumb and the Fore-finger on the right Hand.</item>
+               <item>Againſt <hi>Carus,</hi> firſt open the Head, then the black or Median Vein.</item>
+               <item>
+                  <hi>Caſus</hi> or Impoſthumes by fals, open the Baſilick.</item>
+               <item>
+                  <hi>Cephalaea</hi> or old Headach, open the Forehead vein, or them behind the Ears.</item>
+               <item>
+                  <hi>Cerebri paſſiones,</hi> or Diſeaſes of the Brain, open the Veins in the Neck or the Salvatellas, or Spleen Veins, Noſe Veins, or frontal Vein.</item>
+               <pb n="19" facs="tcp:56656:14"/>
+               <item>Againſt Cogitations fantaſtick, open the Vein in the Forehead.</item>
+               <item>Cholerick Blood, open the two Veins in the little Toes.</item>
+               <item>Cholerick heat that between the thumb and the right Fore-finger, or both.</item>
+               <item>Cholick, the right Baſilick.</item>
+               <item>
+                  <hi>Collum</hi> or Neck ulcerated, the Vein a<g ref="char:EOLhyphen"/>bout the Ear, if ſwollen the Thumb vein.</item>
+               <item>Againſt Diſeaſes Cordis of the Heart. In all Paſſions, the Median Salvatella and the Artery. Trembling and Palpi<g ref="char:EOLhyphen"/>tation, the internal Vein of the left Arm, the Saphena, and then the Baſilick, third<g ref="char:EOLhyphen"/>ly apply Cupping-glaſſes to the left Shoulders. In Repletion, open the right Baſilick, in Vapors, open the left Baſi<g ref="char:EOLhyphen"/>lick, in oppreſſion of the Heart, the Me<g ref="char:EOLhyphen"/>dian, in Apoſthums, the Baſilick or the Artery.</item>
+               <item>Againſt Diſeaſes <hi>Coſtarum</hi> of the Ribs, open the Median pricking in the ſhort Ribs the Salvatella.</item>
+               <item>
+                  <hi>Coxendicum</hi> of the Hips, the Saphena and Sciatica.</item>
+               <item>Crudities, the inward Veins in both Arms.</item>
+               <item>In Diſeaſes
+<pb n="20" facs="tcp:56656:15"/>Crurum of the Legs. Heavineſs, the Ham or Sciatica Vein. Pain and Apoſthume, the Veins in the great Toes, the Hams and Saphena. In Swelling, the Saphena. In Inflammati<g ref="char:EOLhyphen"/>ons of the Legs, the Arm Veins.</item>
+            </list>
+            <list>
+               <head>D.</head>
+               <item>In <hi>Dilirum</hi> or Doting, open the hume<g ref="char:EOLhyphen"/>rary in the Arm, or the Vein between the Thumb and the Fore-finger, or the Noſe.</item>
+               <item>In Diſeaſes</item>
+               <item>
+                  <hi>Dentium</hi> Of the Teeth, open the Cephalick on the contrary ſide, the Palate Vein, firſt the Shoulder Veins, then under the Hips. Thoſe behind the Ears, under the tongue. If the lower Teeth ach, that under the Chin, in pain and putrefaction, that be<g ref="char:EOLhyphen"/>tween the Chin and under the Lip.</item>
+               <item>In <hi>Diarrhoea,</hi> open the left Baſilick.</item>
+               <item>
+                  <hi>In Diaphragma.</hi> Inflamed and ulcerated, open the in<g ref="char:EOLhyphen"/>ward Vein on the left Arm. And in all Diſeaſes below the Diaphragma, the Ba<g ref="char:EOLhyphen"/>ſilick, and above, the Cephalick.</item>
+               <item>
+                  <hi>In Dolor</hi> Or pain of the Kidneys, Loins, Feet,
+<pb n="21" facs="tcp:56656:15"/> Thighs, Bladder, open the Ham Vein: of the Back, firſt the Baſilick then the Scia<g ref="char:EOLhyphen"/>tick. If there be Plethory, in the Joynts and Feet, the Ham Vein. See <hi>Articu<g ref="char:EOLhyphen"/>lorum dolor</hi> or Joynt-pain.</item>
+               <item>In Dyſentery, open the Liver-vein on the right ſide if there be Repletion.</item>
+               <item>In Dyſpnoea, open the Gindegi in the Neck.</item>
+            </list>
+            <list>
+               <head>E</head>
+               <item>In <hi>Elephantiaſis</hi> or Leproſie, open the Salvatella on the contrary ſide, and then the Ham Vein or Sciatica.</item>
+               <item>In <hi>Empyema,</hi> open the black Veins on that ſide.</item>
+               <item>
+                  <hi>In Hepatis</hi> Or Liver-diſeaſes, open Baſilica or Salvatella on the right Hand in a San<g ref="char:EOLhyphen"/>guine Impoſthume, the Baſilick or Ce<g ref="char:EOLhyphen"/>phalick, or Saphena on the ſame ſide, or the right Baſilica. See <hi>Jecur.</hi>
+               </item>
+               <item>In Epilepſie or Falling-ſickneſs, open firſt the Saphena then the Cephalick, thirdly that under the Tongue. Alſo the Ham or Ankle vein, or left Hand Cepha<g ref="char:EOLhyphen"/>lick, or left Salvatella.</item>
+               <item>In <hi>Eriſipelas,</hi> open that between the Thumb and fore-finger in the right hand.</item>
+            </list>
+            <pb n="22" facs="tcp:56656:16"/>
+            <list>
+               <head>F</head>
+               <item>In Diſeaſes of the
+<list>
+                     <item>Face, as flux and other paſſions, that in the Forehead. In Tumors, Knobs, Redneſs, open the Palate-vein and Ce<g ref="char:EOLhyphen"/>phalick on both Hands. In Leproſie, Redneſs, Puſtles, that under the Chin, the frontal. Thoſe behind the Ears, the two Veins in the firſt Joynt of the great Toe, that Palate Veins. In Redneſs Puſtles, Spots and ill Colour, the Frontal. In de<g ref="char:EOLhyphen"/>formity, Foulneſs, Spots, Scabs, Puſtles. And either Vein in the little Toe, that be<g ref="char:EOLhyphen"/>hind the Ear or in the Temples, under the Chin or Tongue.</item>
+                     <item>In all Feavers, the Salvatella on the left Hand, or both, or both Cephalicks.</item>
+                     <item>In Feavers, Synoch the internal right Arm-vein. In Women with Child, the Saphena and Ham in a burning peſtilent Feaver. Tertian, Quotidian, Intermit<g ref="char:EOLhyphen"/>ting, and Semitertian, the inward Vein of the right Arm. In all Quartans, the in<g ref="char:EOLhyphen"/>ward Vein in the left Arm.</item>
+                     <item>In Fiſtulaes, the Lip-veins.</item>
+                     <item>In Fluxes, with Phethory, the Cepha<g ref="char:EOLhyphen"/>lick on the right Hand, and that in the
+<pb n="23" facs="tcp:56656:16"/> Arm firſt, and then that in the Ham, as Sciatica, alſo the black Vein, Head-vein under the Tongue. When the feet have water, the Sciatica, or that under the lit<g ref="char:EOLhyphen"/>tle Toe. The Noſe, the Saphena on the ſame ſide, and the Cephalick. In a flux of the Belly of blood not excoriating, o<g ref="char:EOLhyphen"/>pen the black Vein or the Baſilick. If it be from the Veins of the upper Guts, o<g ref="char:EOLhyphen"/>pen the Baſilick or Salvatella on the ſame ſide, or the Axillares under the Belly.</item>
+                     <item>In <hi>Flatus</hi> or Wind of the Belly, the ce<g ref="char:EOLhyphen"/>phalick.</item>
+                     <item>In <hi>Foetor</hi> or Stink and Putrefaction of the Teeth or Gums, that in the Chin and lower Lip.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>G</head>
+               <item>In <hi>Genitalium morbis,</hi> or Diſeaſes of the Privities, the Sciatica, Popletica or Saphena.</item>
+               <item>In Gums diſeaſed, firſt the Humerary, then under the Lips and Tongue. If im<g ref="char:EOLhyphen"/>poſthumed, firſt the Cephalick, then the Lips. If Pain, or Impoſthume, or Ul<g ref="char:EOLhyphen"/>cers, open the Veins in the Neck or Lips. In Putrefaction, Stink, Ulcer, Inflamma<g ref="char:EOLhyphen"/>tion, that between the Lips and Chin, or that in the corner of both Lips.</item>
+               <pb n="24" facs="tcp:56656:17"/>
+               <item>In Gibboſity, the Baſilick.</item>
+               <item>In Gonorrhaea, the Baſilick.</item>
+               <item>In Diſeaſes.</item>
+               <item>
+                  <hi>Gutturis</hi> of the Throat ſwollen &amp;c. the veins of the Palate under the tongue, the Jugulars.</item>
+               <item>In paſſions of the Gurgulion or Weaſand the two under the tongue.</item>
+            </list>
+            <list>
+               <head>H.</head>
+               <item>Haemorrhoids, to open them the Sa<g ref="char:EOLhyphen"/>phena, Ham, Sciatica or Ankle-vein.</item>
+               <item>Hemorrhoids to ſtop, that in the Arm called Baſilic right or left, the left Salva<g ref="char:EOLhyphen"/>tella is better, the Lip-veins or that in the Noſe.</item>
+               <item>In <hi>Hemicrania</hi> the Cephalick, Temple-veins, or behind the Ears, the Frontal, the veins behind the Head.</item>
+               <item>
+                  <hi>Humerorum morbis,</hi> or diſeaſes of the Shoulder that on the top of the Arm, in tumor; the left internal, unleſs it reach to the Elbow.</item>
+               <item>In humors crude: the internal vein on both Arms.</item>
+               <item>In <hi>Hpdrops</hi> or Dropſie: the two Ham-veins, or that under the Prepuce in gene<g ref="char:EOLhyphen"/>ral ſwelling: or the Cephalick if it be Wind.</item>
+               <pb n="25" facs="tcp:56656:17"/>
+               <item>In Hypothondries diſtempered the Salvatella on the right hand.</item>
+            </list>
+            <list>
+               <head>I.</head>
+               <item>In Jaundies yellow, the right Salva<g ref="char:EOLhyphen"/>tella whether a Feaver or no: or the baſilick Jaundies black, the left baſilick, and then the Salvatella.</item>
+               <item>In <hi>Jecoris morbis</hi> or diſeaſes of the Liver. The Salvatella on the left hand, the baſilick on the right in an Impoſthume: ſee Apoſthume by fall or ſtroak, the Ba<g ref="char:EOLhyphen"/>ſilick on the other ſide, or the ſame in a Phlegmatick Impoſthume, the right Ba<g ref="char:EOLhyphen"/>ſilick, or on the ſame ſide in obſtruction. Firſt the black vein, then the Baſilick, and right Salvatella.</item>
+               <item>In Inflammation of it in the inward Vein of the right Arm.</item>
+               <item>In Impetigo the frontal.</item>
+               <item>Inflammations, firſt in the Arm if that doth not prevail, then in the Ham or foot: If it be a light Inflammation, o<g ref="char:EOLhyphen"/>pen the Vein beneath on the ſame ſide.</item>
+               <item>In Inflammations, under the Reins o<g ref="char:EOLhyphen"/>pen the inward vein of the Arm on the ſame ſide.</item>
+               <pb n="26" facs="tcp:56656:18"/>
+               <item>Of the Fundament, Privities, Bladder, Groyns, Thighs, open the upper veins in the Arm.</item>
+               <item>Inflammation of the Groyn the upper vein in the Arms.</item>
+               <item>
+                  <hi>Inſania</hi> or Madneſs, the Humerary vein in the Arm, the Cephalick or the Noſe, <hi>Vena puppis</hi> or in the cavity of the Ear, or in the crown of the Head, or in the Frontal.</item>
+               <item>Joynts pain and Diſeaſes, ſee <hi>Arthri<g ref="char:EOLhyphen"/>tis.</hi>
+               </item>
+               <item>
+                  <hi>Ischias</hi> or Sciatica, the Sciatica-vein.</item>
+            </list>
+            <list>
+               <head>L.</head>
+               <item>In <hi>Lachrimae</hi> tears or flux of the Eyes, open the Temples, the Humerary on the ſame ſide, or that Vein in the great cor<g ref="char:EOLhyphen"/>ner of the Eye. ſee <hi>Oculus</hi> or Eye.</item>
+               <item>
+                  <hi>Lactis abundantia</hi> or Milk abounding, firſt the Saphena, then ſcarifie the Thighs and open the Baſilick.</item>
+               <item>Laſſitude or lazineſs of Limbs, the Ham-veins.</item>
+               <item>
+                  <hi>Laterum dolor</hi> or ſide-pain the Ginde<g ref="char:EOLhyphen"/>gi or Median.</item>
+               <item>Lentigo, the tip of the Noſe, or that in the Lips, or under the Chin.</item>
+               <pb n="27" facs="tcp:56656:18"/>
+               <item>Leproſie, the frontal or Gindegi in the Neck.</item>
+               <item>To lighten the body and mind, the vein of the Prepuce.</item>
+               <item>To lighten the feet and legs, the Ham-vein.</item>
+               <item>
+                  <p>In Diſeaſes. Linguae. Of the Tongue, In Impoſthumes, Tu<g ref="char:EOLhyphen"/>mors, firſt the Cephalick on the right ſide, then the Lip-veins or under the tongue. In ſlowneſs or hinderance of ſpeech, the vein under the Tongue, or when it is ſwollen the veins under it, or the Cephalick.</p> 
+                  <hi>Lipothymia</hi> or ſwounding, the frontal.</item>
+               <item> Lippitude or Bleareyedneſs and red<g ref="char:EOLhyphen"/>neſs, &amp;c. open the veins between the Thumb and fore-finger, or the Cephalick of the left hand, or in the tip of the Noſe, or in the Temples, or in the corners of the Eyes.</item>
+               <item> Loyns pained and other Diſeaſes, both the Hams, the Median, the Saphena, both the great Toe-veins, and the Sciatica. </item>
+            </list>
+            <list>
+               <head>M.</head>
+               <item>In <hi>Mammillarum</hi> or Pap-diſeaſes, o<g ref="char:EOLhyphen"/>pen
+<pb n="28" facs="tcp:56656:19"/> the Vein under the Chin. When the Paps are ſwollen or impoſthumated, the Saphena.</item>
+               <item>Madneſs; firſt the Baſilick, then the Median or Saphena, the Cephalick, or hu<g ref="char:EOLhyphen"/>merary in the Arm, in the Noſe, ſee <hi>Inſa<g ref="char:EOLhyphen"/>nia</hi> or Madneſs.</item>
+               <item>In Mother-diſeaſes, open the Salvatel<g ref="char:EOLhyphen"/>la in the left hand, the Sciatica or Saphe<g ref="char:EOLhyphen"/>na. When there is an Ulcer or Impoſt<g ref="char:EOLhyphen"/>hume, open firſt the Baſilica, then the Sa<g ref="char:EOLhyphen"/>phena. When there are clefts, the left baſilick or left Saphena. When a Cancer, firſt the baſilica, then the Saphena. In an Inflammation, open the Ham or Ankle-vein. When there is Itch, open firſt the Median, then the Baſilica. When it is diſcolored upwards, open the Saphena. When fallen down, the Baſilica. When it is ſuffocated, the Saphena or Ham-vein: to purge and clenſe the Mother, o<g ref="char:EOLhyphen"/>pen the Saphena.</item>
+               <item>
+                  <hi>Maxillarum affectibus</hi> or in diſeaſes of the Jaws, firſt open the humerary veins, then under the Lip and the Veins of the Palate.</item>
+               <item>In the Diſeaſes of the under Jaw and Mandible, open that under the Tongue:
+<pb n="29" facs="tcp:56656:19"/> when they are ſwollen, open the Ginde<g ref="char:EOLhyphen"/>gi and the veins above the Ears.</item>
+               <item>Melancholy, open the right Cephalick or the left vein of the Back, the left Baſi<g ref="char:EOLhyphen"/>lick, or firſt the black vein, then the ba<g ref="char:EOLhyphen"/>ſilick or Foot-vein.</item>
+               <item>Memory to repair and keep it open, the veins behind the Ears, or the Noſe-vein.</item>
+               <item>
+                  <hi>Menſtrua</hi> or Terms to provoke, the Saphena and that behind the Clavicula or the Knee-vein, or that in the Ham: or firſt open the baſilick, then both the Saphenaes, or open one one day and the other the next, and take four ounces: or open the vein in the great Toe, or that in the little Toe, or the Sciatica vein.</item>
+               <item>To ſtop them open the Baſilica.</item>
+               <item>
+                  <hi>Mictus ſanguinis</hi> or piſſing of Blood, open the Baſilick and Saphena, or the Cephalick, if it bleed from the bladder, Liver, or Spleen: if bleeding come from Reins, Kidnies, or back, open the Sa<g ref="char:EOLhyphen"/>phena.</item>
+               <item>Mole, open the Saphena often.</item>
+               <item>Morphew, open the Frontal, or vein in the Noſe, or that under the Chin.</item>
+            </list>
+            <list>
+               <pb n="30" facs="tcp:56656:20"/>
+               <head>N.</head>
+               <item>Noſtrils bleeding, open the Saphena on the ſame ſide, then the Cephalick, in Bothor or Itch open the Noſe-vein in an Ulcer the Saphena, if the Terms or He<g ref="char:EOLhyphen"/>morrhoids begin to flow, if not open the Cephalick and Noſe-vein, or that under the Chin: if they ſtick open, the Cepha<g ref="char:EOLhyphen"/>lick and then the Noſe-vein.</item>
+               <item>Nerves when weak, the Ham-vein.</item>
+               <item>Nyctalops, the Cephalick or lachry<g ref="char:EOLhyphen"/>mal veins in the Noſe, then in the Tem<g ref="char:EOLhyphen"/>ples, or the Arteries behind the Ears.</item>
+            </list>
+            <list>
+               <head>O.</head>
+               <item>
+                  <hi>Occiput</hi> or the hinder part of the Head pained, open the vein under the Tongue, the <hi>Vena puppis,</hi> or of the neck.</item>
+               <item>
+                  <hi>Oculi</hi> the Eyes, in their Diſeaſes, open the upper Vein in in the Arm, thoſe in the Temples, that in the Forehead, or under the Thumb, or firſt the Cephalick, then the Frontal, or in the corners of the Eyes. In pain or dim ſight, open the great Toe vein, or them in the corners of the Eyes by the Noſe: in ſpots of the
+<pb n="31" facs="tcp:56656:20"/> Eyes and redneſs, the Noſe-vein, in Lip<g ref="char:EOLhyphen"/>pitude, Catarracts, Clouds, Dimneſs, Moiſture, &amp;c. open the Temple-veins on both ſides, the right Cephalick, both Veins in the great corners of the Eyes. In heavineſs, open the Frontal, in redneſs, the Noſe, in heat and pricking, thoſe in the corners of the Eyes.</item>
+               <item>In Tears, Defluxion and Moiſture, the humerary on the ſame ſide, or that in the great corner of the Eye, both Cepha<g ref="char:EOLhyphen"/>licks, both the Temple-veins, and that of the Noſe.</item>
+               <item>In Lippitude, that between the thumb and the fore-finger in both hands, the Noſe-vein, and both the Temples, both the veins, and in the great corners of the Eyes neer the Noſe, the left Cephalick: in Tumor or Ulcer, both the veins be<g ref="char:EOLhyphen"/>tween the Thumb and the fore-finger, both the great Toe veins, and that in the middle of the Forehead: in Inflamma<g ref="char:EOLhyphen"/>tion and ſalt Tears, open the humerary on the ſame ſide, or that in the great cor<g ref="char:EOLhyphen"/>ner of the Eye.</item>
+               <item>
+                  <hi>Omnes humores</hi> or all humors, to purge and cure all Diſeaſes. If the blood of<g ref="char:EOLhyphen"/>fend, open the Median.</item>
+               <item>In all Diſeaſes of Nutritive members
+<pb n="32" facs="tcp:56656:21"/> open the Sciatica or Saphena.</item>
+               <item>In all Diſeaſes above the Diaphragma, open the Cephalick.</item>
+               <item>In all Diſeaſes in parts under the Dia<g ref="char:EOLhyphen"/>phragma, the Baſilick.</item>
+               <item>Ophthalmy, the Cephalick in the con<g ref="char:EOLhyphen"/>trary hand; if there be Plethory, firſt the oppoſite Baſilick, then the Cepha<g ref="char:EOLhyphen"/>lick, or firſt the Saphena on the ſame ſide if the matter be little and a flux, the Ce<g ref="char:EOLhyphen"/>phalick on the ſame ſide, alſo the Tem<g ref="char:EOLhyphen"/>ple-veins, or them in the great Toe, or between the Thumb and forefinger, or the Arteries behind the Ears.</item>
+               <item>Orifice of the the Stomach pained, the Artery is to be opened.</item>
+               <item>
+                  <hi>Oris</hi> or Mouth-evils, the Tongue-veins, in pain, the Palate-vein; ſtink, that under the Chin, or that between the Chin and the Lip, or that in the hollow of the Ears: in Impoſthumes and Ulcers, firſt the Cephalick, then the Lip-veins, and under the Tongue.</item>
+            </list>
+            <list>
+               <head>P.</head>
+               <item>
+                  <hi>Palpebrae</hi> or Eyebrows if Scabby, the Cephalick or Lachrymal veins, or of the Temples, if thick, the Cephalick.</item>
+               <pb n="33" facs="tcp:56656:21"/>
+               <item>Palpitation of the Heart: the inward veins of the left Arm.</item>
+               <item>
+                  <hi>Pannus</hi> the Temple-veins, and the two Arteries behind the Ears.</item>
+               <item>Palſie: both the veins in the little toes, or that under the Tongue.</item>
+               <item>
+                  <hi>Parotis:</hi> that under the Ear.</item>
+               <item>
+                  <hi>Pectoris</hi> of the Breaſt: the Baſilick on the left Arm, the Neck veins, or the two under the Tongue.</item>
+               <item>To clenſe the breaſt: open the ſalva<g ref="char:EOLhyphen"/>tella.</item>
+               <item>
+                  <hi>Pedum</hi> of Feet, in all pains open the Ham vein, or in the little Toes, when ſwollen and red, the Ham and ſciatica-veins. In itch or ſcabs, the two great toe veins.</item>
+               <item>Peripneumony: the baſilick oppoſite, if the pain reach to the Throat, Breaſt or Arm, open the internal vein on the ſame ſide.</item>
+               <item>Percuſſion or ſtroak cauſing impoſt<g ref="char:EOLhyphen"/>hume: the Baſilick.</item>
+               <item>Peſtilent Feaver: the right Arms in<g ref="char:EOLhyphen"/>ward vein.</item>
+               <item>Plague, if it be in the Neck: open be<g ref="char:EOLhyphen"/>hind the Ears, if in the Cervix, the Ce<g ref="char:EOLhyphen"/>phalick in the Arm or Thumb. If in the Chin or Forehead, the veins under the Tongue.</item>
+               <pb n="34" facs="tcp:56656:22"/>
+               <item>If in the Head, Shoulder, Breaſt, the Median.</item>
+               <item>If in the Arms, Ribs, Breaſts, Armpits, the Baſilick, Median and ſalvatella.</item>
+               <item>If in the Thigh, the ſaphena.</item>
+               <item>If in the Knees, Shins or Ankles, the ſciatica vein.</item>
+               <item>If in the Loins and Feet: open the Palſie vein near the little Toe.</item>
+               <item>Phrenſie, firſt the Hand Cephalick, or the Saphena which is better, then the Forehead: but take heed that he move not much in, or after bleeding, or the hu<g ref="char:EOLhyphen"/>merary, or between the Thumb and fore-finger, or in the Noſe.</item>
+               <item>
+                  <hi>Phthiſis</hi> or Conſumption, firſt the left Baſilick, then the Salvatella.</item>
+               <item>Pleuriſie, the oppoſite Baſilick, at the beginning when the matter flows, when there is plenitude; or firſt open the Sa<g ref="char:EOLhyphen"/>phena, and then the Baſilick. If it be in the right ſide, open the right Saphena, when there is but little plenitude, or when the matter is flowed, then open on the ſame ſide, or the Gindegi and Median. If the pain reach to the Throat, Papps or Arm, open the internal Vein on the ſame ſide.</item>
+               <item>Plethory, when no part is affected a<g ref="char:EOLhyphen"/>ny
+<pb n="35" facs="tcp:56656:22"/> Vein may be opened with benefit.</item>
+               <item>In Plethory, that maketh diſeaſes from unknown cauſes, open the Liver-vein in the right Arm.</item>
+               <item>Plethory of crude humors in internal Veins in both Arms.</item>
+               <item>Plethory from Terms ſtopt, the Saphe<g ref="char:EOLhyphen"/>na.</item>
+               <item>Plethory great with Defluxion, firſt the Veins in the Arm: and if that will not do, the Leg or Foot-veins.</item>
+               <item>Plethory of Melancholy, the inward Vein in the left Arm.</item>
+               <item>Plethory of Choler, the inward Vein in the right Arm.</item>
+               <item>
+                  <hi>Podagra</hi> or Foot-gout, firſt the Baſi<g ref="char:EOLhyphen"/>lick, the then Arthritick or Saphena: and the right Baſilick, if it be in the right Foot, if in the left, the left; alſo the Ham vein. See <hi>Arthritis.</hi>
+               </item>
+               <item>
+                  <hi>Podex</hi> inflamed, the upper Veins in the Arm.</item>
+               <item>
+                  <hi>Praegnantes</hi> or Women with Child, bleed about the fifteenth week, again when they open again about the twenty ſixth week, open the Hepatick againſt the little finger. <hi>Andrenatus</hi> allows to Plethorick women with child, bleeding in the ſecond, third or fourth month, but
+<pb n="36" facs="tcp:56656:23"/> not in the eighth or ninth month.</item>
+               <item>Priapiſm, firſt the black Vein, then the Baſilick.</item>
+               <item>
+                  <hi>Pudendi</hi> or Privities, the Saphena, the Genital-vein, Sciatica, Ham-vein, or the Veins above the Pecten. When there is Ulcer or Tumor, open the great Toe veins. See <hi>Virga.</hi>
+               </item>
+               <item>
+                  <hi>Puerpurae</hi> or Women with Child in feavers, open the Saphena and Ham-vein.</item>
+               <item>
+                  <hi>Pulmonum</hi> or Diſeaſes in the Lungs, the Median, the Veins under the Tongue, the inward Vein in the left Arm, the Sal<g ref="char:EOLhyphen"/>vatella. In Impoſthums of the Lungs, the Gindegi.</item>
+               <item>Punction or pricking under the ſmall Ribs, the Salvatella.</item>
+               <item>Pupil of the Eye dilated, the Cepha<g ref="char:EOLhyphen"/>lick or lachrymal Veins, and the Tem<g ref="char:EOLhyphen"/>ples.</item>
+            </list>
+            <list>
+               <head>Q</head>
+               <item>Quartan Ague, the inward Vein in the left Arm.</item>
+               <item>Quotidian daily, intermitting, and ſe<g ref="char:EOLhyphen"/>minary, the inward Vein of the right Arm.</item>
+            </list>
+            <list>
+               <head>R</head>
+               <item>
+                  <hi>Rhagades</hi> or Clefts of the Womb, open the Baſilick in the left Hand, or the Sa<g ref="char:EOLhyphen"/>phena in the left Foot.</item>
+               <pb n="37" facs="tcp:56656:23"/>
+               <item>
+                  <hi>Raucedo</hi> or Hoarſneſs, the Gindegi, the two Veins on both ſides the Throat near the Neck.</item>
+               <item>Reins, in all Dieaſes, the left Salvatel<g ref="char:EOLhyphen"/>la, the Veins in the Knees, the Vein in the Glans of the Yard. In pain preſent or to come, the right Baſilick, then both Saphenaes. In plenitude, the Ham-vein or Ankle. In obſtruction, the Baſilick often, then the Saphena. To evacuate and mundifie, the Sciatica, to ſtrengthen the Veins between the Loins and But<g ref="char:EOLhyphen"/>tocks. In inflammation, the inward vein of the right Arm, if the right Kidney, ſuffer in the left, if the left Scabs, the Ba<g ref="char:EOLhyphen"/>ſilick. Apoſtems and Ulcers, the com<g ref="char:EOLhyphen"/>mon vein if there be Repletion: or the Baſilick on the ſame ſide, if humors of<g ref="char:EOLhyphen"/>fend, or the Cephalick, if the matter be above. Or the Saphena on the ſame ſide, and the Ham-vein. In the Stone, the four veins above the Pecten, or the Sciatica.</item>
+               <item>Rheum: the Palate vein.</item>
+               <item>Rheum upon the Eyes ſharp: the tem<g ref="char:EOLhyphen"/>poral Arteries muſt be opened.</item>
+            </list>
+            <list>
+               <head>S</head>
+               <item>
+                  <hi>Sanguinis</hi> in blood abounding and un<g ref="char:EOLhyphen"/>clean:
+<pb n="38" facs="tcp:56656:24"/> open the Baſilick or right Salva<g ref="char:EOLhyphen"/>tella, or the little Toe when it is hot and cholerick: open both little Toe-veins. When there is Melancholy: open the veins between the Loins and Buttocks.</item>
+               <item>Scab or Itch: open both little Toe-veins.</item>
+               <item>Sciatica: the Sciatica vein on the ſame ſide, Saphena or Ham vein.</item>
+               <item>Speech hindered: the veins under the Tongue.</item>
+               <item>Sleep profound, firſt the Cephalick, then the Median.</item>
+               <item>
+                  <hi>Spatula</hi> or Shoulder diſeaſes: open the vein in the top of the Arm.</item>
+               <item>Spiration with difficulty and the like: that under the Tongue, the Median and Salvatella.</item>
+               <item>Spiration or breathing parts pained in Feavers: open the inward Vein in the Arm.</item>
+               <item>In Spleen diſeaſes: open the inward Vein in the left Arm, Gindegi; firſt the left Baſilick, then the Salvatella, or the Sciatica and Saphena.</item>
+               <item>Spondil Diſeaſes: the Vein in the top of the Arm.</item>
+               <item>Spitting of blood: the Saphena, with Ulcers, the inward Vein on the left arm.</item>
+               <pb n="39" facs="tcp:56656:24"/>
+               <item>Spitting of blood from Terms ſtopt: open the Baſilick twice or thrice, or the Saphena once.</item>
+               <item>Spitting of matter: the black vein on, the ſame ſide.</item>
+               <item>In Sterility or Barrenneſs from moi<g ref="char:EOLhyphen"/>ſture: both Saphena's.</item>
+               <item>Stomach paſſions: the Median, Baſi<g ref="char:EOLhyphen"/>lick, and the vein of the under Lip.</item>
+               <item>Stomach Impoſthume: the right hand Baſilick, if Plethory be firſt the Saphena, then the Baſilick or Median.</item>
+               <item>Stomachs evil Complexion with mat<g ref="char:EOLhyphen"/>ter: the black vein, if there be Plethory.</item>
+               <item>Stomachs Orifice hurt the ſalvatella.</item>
+               <item>Strangury: the two veins on the ſides of the Pecten.</item>
+               <item>Stupour: firſt the Baſilick, then the Cephalick, then that vein that is proper to the nummed Member.</item>
+               <item>
+                  <hi>Subet</hi> from blood: firſt the Cepha<g ref="char:EOLhyphen"/>lick, then the black vein.</item>
+               <item>
+                  <hi>Synanche</hi> or Quinzie: firſt the Hume<g ref="char:EOLhyphen"/>raries under the Tongue, or both Cepha<g ref="char:EOLhyphen"/>licks, then the Gindegi.</item>
+               <item>
+                  <hi>Syncope</hi> or Swounding: the vein in the Forehead.</item>
+               <item>
+                  <hi>Synoch</hi> Feaver ſimple and putrid: the inward vein of the right Arm.</item>
+            </list>
+            <list>
+               <pb n="40" facs="tcp:56656:25"/>
+               <head>T</head>
+               <item>In <hi>Tabes</hi> or Conſumption: the inward left vein. See <hi>Phthiſis.</hi>
+               </item>
+               <item>
+                  <hi>Teneſmus:</hi> the right Baſilick, or the left, if there be repletion of blood.</item>
+               <item>Tertian burning, peſtilent, quotidian, conſtant or intermitting, and ſemitertian: open the inward vein in the right Arm.</item>
+               <item>Teſticles or the Stones, to empty the ſaphena. In diſeaſes of them, both the veins on the ſides of the Pecten, or that in the Knee. In pain, the ſaphena. Tu<g ref="char:EOLhyphen"/>mor and inflation, both ſaphenaes, the ſciatica, the Groyn-vein, both great Toe veins. In impoſthumes of the ſtones, the right Hand veins, if pain or impoſthume be in the right ſide, after that the ſaphena on the ſame ſide, if the impoſthume be on both ſides, in both Hands. In a wound of the Teſticles: the Baſilick, eſpecially if there be repletion.</item>
+               <item>
+                  <hi>Thorax</hi> or Breaſt: open the internal Cephalick of the left Arm. See <hi>Pectus</hi> or Breaſt.</item>
+               <item>
+                  <hi>Tibiae</hi> or Legs pained: the Ham or ſci<g ref="char:EOLhyphen"/>atica vein</item>
+               <item>Trembling of Heart: the ſaphena then
+<pb n="41" facs="tcp:56656:25"/> the Baſilick, thirdly apply Cupping-glaſ<g ref="char:EOLhyphen"/>ſes to the left ſhoulder. In repletion, o<g ref="char:EOLhyphen"/>pen the right baſilick, in vapors the left.</item>
+               <item>In <hi>Triſtitia</hi> or Sadneſs: the Cephalick.</item>
+               <item>Tumors of all ſorts: the Groyn vein and Cephalick.</item>
+               <item>Tumors in the Armpits or ſhoulders: the inward vein of the left Arm.</item>
+               <item>Tumors of Tongue and Jaws: the right Cephalick.</item>
+               <item>
+                  <hi>Tuſſis</hi> or Cough: the Cephalick, if mat<g ref="char:EOLhyphen"/>ter fals, or the black vein, if there be mat<g ref="char:EOLhyphen"/>ter contained, or the baſilick, if the Li<g ref="char:EOLhyphen"/>ver being hot cauſe it, or the ſaphena, if the Terms be ſtopt.</item>
+               <item>If blood be coughed up: open the in<g ref="char:EOLhyphen"/>ward vein on the left Arm.</item>
+            </list>
+            <list>
+               <head>V</head>
+               <item>In <hi>Varices:</hi> open the ſciatica, ſaphena or Ham vein.</item>
+               <item>
+                  <hi>Venter</hi> or Belly diſeaſes: the baſilick. In Belly-flux. See <hi>Diarrhaea</hi> or <hi>Fluxus.</hi>
+               </item>
+               <item>In <hi>Vertigo</hi> or Megrim: the Cephalick, Ham or Ankle vein, or the Arteries be<g ref="char:EOLhyphen"/>hind the Ears.</item>
+               <item>
+                  <hi>Veſica</hi> or Bladder offended: open the veins on each ſide the privities or ſaphe<g ref="char:EOLhyphen"/>na.</item>
+               <pb n="42" facs="tcp:56656:26"/>
+               <item>If it be impoſthumed: the left baſilick or left ſalvatella.</item>
+               <item>If inflamed: the upper veins in the arm.</item>
+               <item>If a Stone in the bladder. See <hi>Calcu<g ref="char:EOLhyphen"/>lus.</hi>
+               </item>
+               <item>In <hi>Virgae</hi> or the Yard diſeaſes: the ſci<g ref="char:EOLhyphen"/>atica, ſaphena, Ham, the four veins a<g ref="char:EOLhyphen"/>bove the Pecten, the baſilick on the ſame ſide. In inflammation, open the upper veins in the Arm. Tumor or Ulcer, both the great Toe veins.</item>
+               <item>
+                  <hi>Viſus</hi> or Sight weakned from many ſpi<g ref="char:EOLhyphen"/>rits: firſt open the baſilick, then the Ce<g ref="char:EOLhyphen"/>phalick. if there be great repletion, take firſt the ſaphena. If it be from the ſpleen, open the left Cephalick. See <hi>Oculus.</hi>
+               </item>
+               <item>
+                  <hi>Vomica</hi> or Impoſthumes: open the two veins in the little Toes.</item>
+               <item>Vomiting the Head, or black vein, or baſilick, when there is Choler. If blood abound, open the left baſilick or the ſa<g ref="char:EOLhyphen"/>phena, if the Liver cauſe it, open the right ſide baſilick.</item>
+               <item>Voice hurt: the ſalvatella or veins un<g ref="char:EOLhyphen"/>der the Tongue.</item>
+               <item>Urin difficult, the baſilick and then the ſaphena, or the veins on both ſides the privities. See <hi>Mictus</hi> or Piſſing.</item>
+               <item>In <hi>Vteri malis</hi> or diſeaſes of the womb,
+<pb n="43" facs="tcp:56656:26"/> open the ſalvatella of the left Hand, ſci<g ref="char:EOLhyphen"/>atica or ſaphena. In inflamations of it, open the Ham or Ankle veins.</item>
+               <item>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>vula</hi> fallen: open the right Cepha<g ref="char:EOLhyphen"/>lick or Baſilick, if there be Repletion.</item>
+            </list>
+         </div>
+         <div type="part">
+            <head>APHORISMES TO BE Obſerved in Bloodletting.</head>
+            <div type="subpart">
+               <head>
+                  <hi>Hippocrates</hi> his Aphoriſmes concerning Phlebotomy.</head>
+               <p>
+                  <seg rend="decorInit">I</seg>F the Veſſels be emptied as they ſhould be, it doth good; and the Patient likes it wel, if otherwiſe not. Therefore con<g ref="char:EOLhyphen"/>ſider the Climate, Time and Age, and Diſeaſes, whether you ought to bleed or no.</p>
+               <p>All diſeaſes by repletion, are cured by Evacuation or Blood-letting, if large and
+<pb n="44" facs="tcp:56656:27"/> violent, or much at the noſe.</p>
+               <p>If any be dumb on the ſudden, open the vein in the right arm. A Woman with child will miſcarry upon bleeding, and the ſooner as her child is older.</p>
+               <p>In acute diſeaſes open a vein, when the diſeaſe is vehement, and the patient in his youth, and ſtrong.</p>
+               <p>The veins behind the Ears being ope<g ref="char:EOLhyphen"/>ned, cauſe barrenneſs.</p>
+               <p>If you will let blood, by reaſon there is blood gathered together, to turn it from the place, do it at a great diſtance from the part afflicted. The opening of the veins beneath in the Groyns, Thighs, Legs and Ankles, maketh men unfruitful. It is good for a man to bleed ſomtimes: the time of bleeding begins at <hi>February,</hi> and again at <hi>September.</hi>
+               </p>
+            </div>
+            <div type="subpart">
+               <head>The Aphoriſmes of <hi>Galen,</hi> concerning Bleeding.</head>
+               <p>THere are three Conſiderations in Blood-letting, the vehemency of the diſeaſe, the youth of the Patient, and the ſtrength of the Faculty.</p>
+               <pb n="45" facs="tcp:56656:27"/>
+               <p>Nor too yong, nor too old are to be let blood.</p>
+               <p>They need no blood-letting that have any natural evacuation.</p>
+               <p>Many need bleeding after long Diſeaſes by the three conſiderations mentioned.</p>
+               <p>We bleed when there is no fulneſs, when there is great pain, or in a Fracture or diſlocation, or any contraction in a Joynt.</p>
+               <p>Bleeding requires ſtrength agreeable to the evacuation.</p>
+               <p>It is not good to bleed often in one year.</p>
+               <p>When you let blood, keep off far from the Artery.</p>
+               <p>Bleeding and Water-drinking are chief remedies of conteining Feavers.</p>
+               <p>When you wil cure obſtructions firſt open a Vein though there be no fulneſs.</p>
+               <p>Neceſſity allows and commands blood-letting at any time or hour.</p>
+               <p>It is a good Remedy in continual Fea<g ref="char:EOLhyphen"/>vers to let blood til they faint, if the Pa<g ref="char:EOLhyphen"/>tient be ſtrong.</p>
+               <p>Two hours after bleeding the Patient may eat.</p>
+               <p>In bleeding in continual Feavers con<g ref="char:EOLhyphen"/>ſider not the number of the daies, but on<g ref="char:EOLhyphen"/>ly the ſtrength.</p>
+               <pb n="46" facs="tcp:56656:28"/>
+               <p>If at the time of bleeding the Terms chance to flow, or the Haemorrhoids, ob<g ref="char:EOLhyphen"/>ſerve it, and if the quantity voided be ſufficient, leave the whole buſineſs to Na<g ref="char:EOLhyphen"/>ture and that flux, but otherwiſe bleed a little.</p>
+               <p>Theſe are the inconveiencies that fol<g ref="char:EOLhyphen"/>low, loſs of too much blood, Faintneſs, worſe habit of body, a colder temper, diſcoloring of the whole body, and fal<g ref="char:EOLhyphen"/>ling into long deadly Diſeaſes.</p>
+               <p>In all Feavers bleed at the firſt if the Patient be ſtrong.</p>
+               <p>It is lawful by bleeding to evacuate ſu<g ref="char:EOLhyphen"/>perfluities in a Feaver.</p>
+               <p>In a Phlegmon of the Liver, the blood that flows thicker muſt be let out by o<g ref="char:EOLhyphen"/>pening the internal vein in the right Arm.</p>
+               <p>In a Phrenzy and Lethargy, bleed at firſt coming of it.</p>
+               <p>In a Carbuncle bleed til they faint.</p>
+               <p>In great Diſeaſes, alwaies bleed, but with reſpect to the age and the ſtrength.</p>
+               <p>You muſt bleed plentifully in a Laſſi<g ref="char:EOLhyphen"/>tude with a Phlegmon, ſomtimes til they faint.</p>
+               <p>After bleeding you muſt not preſent<g ref="char:EOLhyphen"/>ly refreſh the Patient.</p>
+               <pb n="47" facs="tcp:56656:28"/>
+               <p>Abſtain from bleeding when the blood is good and little, and other humors are abundant; but when it is contrary let blood.</p>
+               <p>If you forbear bleeding by reaſon of the age or for fear, let the Patient purge the more.</p>
+               <p>To open the Haemorrhoids, or pro<g ref="char:EOLhyphen"/>voke Terms, or open the Ankle-vein, and then purge is good with bleeding in the Arm.</p>
+               <p>When blood abounds, it muſt not pre<g ref="char:EOLhyphen"/>ſently be let out: for faſting, ſlender di<g ref="char:EOLhyphen"/>et, looſneſs of belly, or purging, or bath<g ref="char:EOLhyphen"/>ing often, or exerciſe alone, or much rub<g ref="char:EOLhyphen"/>bing wil abate it.</p>
+               <p>After the opportunity of bleeding is paſſed, other evacuations are dangerous<g ref="char:punc">▪</g> when there are excrements either in the Brain or the Inſtruments of the Spirits.</p>
+               <p>Bleeding muſt be at the beginning of Diſeaſes, and ſomtimes purging.</p>
+               <p>Bleeding is a common way to cure diſ<g ref="char:EOLhyphen"/>eaſes by repletion.</p>
+               <p>Bleeding whatſoever, or whereſove<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> or howſoever done, equally evacuateth the whole body.</p>
+            </div>
+            <div type="subpart">
+               <pb n="48" facs="tcp:56656:29"/>
+               <head>
+                  <hi>The Aphoriſms of</hi> Cornelius Celſus <hi>out of his</hi> Book 2. Chap. 9.</head>
+               <p>THere is ſcarce a Diſeaſe in which bleeding is not allowed.</p>
+               <p>It is an old cuſtom to let blood yong men and women not with Child.</p>
+               <p>But not Children and old folks, and Women with Child, for the Ancients thought the firſt and laſt age could not endure this kind of help, and were per<g ref="char:EOLhyphen"/>ſwaded that if a Woman with Child <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ould be let blood, ſhe would abort: but after this, Cuſtom hath ſhewed that it is otherwiſe; for it is not matterial what age the party is of, or what is in the body, but what ſtrength the Patient is of.</p>
+               <p>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>herefore if a Youth be weak, or if the woman be not with Child, and be al<g ref="char:EOLhyphen"/>ſo weak; it is not good to let blood, for ſo the ſtrength that remains wil be taken away: but a ſtrong Boy or old
+<pb n="49" facs="tcp:56656:29"/> Man, and a hearty ſtrong Woman with Child may be cured by bleeding accord<g ref="char:EOLhyphen"/>ing to <hi>Celſus.</hi>
+               </p>
+               <p>But the Phyſitian may be deceived if unskilful, becauſe in thoſe ages there is leſs ſtrength.</p>
+               <p>A Woman with Child hath need of ſtrength after her cure, not only for her ſelf but to ſuſtain the Child.</p>
+               <p>The chief art is to conſider the ſtrength of a Child, old Man, or Woman with Child.</p>
+               <p>There is difference to be obſerved be<g ref="char:EOLhyphen"/>tween a fat and a lean body, a ſtrong and a weak.</p>
+               <p>The thin bodies have more blood, the full bodies have more fleſh.</p>
+               <p>They endure the loſs of blood bet<g ref="char:EOLhyphen"/>ter, and a fat man is ſooner diſturbed with it if it be too much.</p>
+               <p>Therefore the ſtrength of the body is better to be found by the Veins than the Form.</p>
+               <p>Nor are theſe only to be conſidered; but the Diſeaſe, what kind it is, whether abundance or want of matter hurteth, whether the body be corrupt or ſound.</p>
+               <p>For if the matter be wanting, or be ſound, that is another thing: but if it
+<pb n="50" facs="tcp:56656:30"/> offend in plenty or be corrupt, it can no way be better helped than by bleeding.</p>
+               <p>Therefore in a vehement Feaver when the body is red, and the veins are ſwol<g ref="char:EOLhyphen"/>len bleeding is required.</p>
+               <p>But if the Feaver be vehement, and you let blood in the height of it, you kill the Patient.</p>
+               <p>Therefore expect a remiſſion: if it de<g ref="char:EOLhyphen"/>creaſeth not, but hath ceaſed to decreaſe and you hope for no remiſſion, then though it be worſe bleeding then before, avoid not the opportunity.</p>
+               <p>Somtimes make two daies work of it, if there be neceſſity, for it is better firſt to refreſh the Patient, and then to do it throughly, then to ſpend all the ſtrength at once.</p>
+               <p>If you bleed for the whole body, open the arm, if for a part, bleed in that part, or near it. But this cannot be done eve<g ref="char:EOLhyphen"/>ry where, but in the Temples, Arms, or about the Ankles.</p>
+               <p>Some ſay that blood muſt be drawn far off from the part affected. For that will divert the courſe of the matter, and take away that which offendeth.</p>
+               <p>But that is falſe. For it emptieth the neareſt part firſt, and blood flows thither
+<pb n="51" facs="tcp:56656:30"/> from the remote while it bleeds: when it is ſtopt it will not be drawn. And ex<g ref="char:EOLhyphen"/>perience ſhews, that if the Head be bro<g ref="char:EOLhyphen"/>ken, that it is beſt to bleed in the Arm.</p>
+               <p>If there be a fault in the ſhoulder, the contrary Arm is to be blooded, becauſe if there be any evil, the part that is affe<g ref="char:EOLhyphen"/>cted will ſooner receive it. Somtimes blood is diverted when it breaks out in one part, and you let blood in an other. And it ceaſeth to flow by applying things that ſtop to the part, firſt bleeding, and giving it another vent.</p>
+               <p>Though bleeding be eaſie to an Artiſt, yet is it hard to an ignorant perſon. For the vein is joyned to the Arteries and the Nerves to them. Therefore if the Lan<g ref="char:EOLhyphen"/>cet touch the Nerve, there is ſtretching of the Nerve, which his grievous.</p>
+               <p>But an Artery cut, neither grows toge<g ref="char:EOLhyphen"/>ther, nor wil be healed, but ſomtimes cauſeth a violent flux, but if a Vein be cut, the heads or orifices being preſſed down the blood ſtoppeth.</p>
+               <p>If the Lancet be fearfully applied, it only cuts the Skin and not the Vein.</p>
+               <p>The Vein muſt be cut in the middle out of which when blood flows you muſt ob<g ref="char:EOLhyphen"/>ſerve the color and habit of body; for if
+<pb n="52" facs="tcp:56656:31"/> blood be thick and black, it is bad and fit to be loſt.</p>
+               <p>If it be red and ſhining, it is ſound, and the loſs of it (inſtead of profit) hurteth, therefore it muſt be ſtopt.</p>
+               <p>But theſe things cannot happen to a Phyſitian that knows what Body ought to looſe Blood.</p>
+               <p>If it be all black, let it often out, and bleed not again, if you have enough be<g ref="char:EOLhyphen"/>fore fainting.</p>
+               <p>Tie up the Arm with a Pledget dipt in cold water, and open the vein with your nail the next day, for the new Eſcar will eaſily come off, and it will bleed again.</p>
+               <p>But whether it be in the firſt or ſecond day, that blood which firſt was thick and black, begins to wax red and clear, there is enough taken; therefore let the Vein be preſently bound up, and kept ſo till there be a ſtrong Eſchar which will quickly be in a Vein. This <hi>Celſus.</hi>
+               </p>
+            </div>
+            <div type="subpart">
+               <head>THE APORISMES OF <hi>Arnoldus de Villa nova</hi> out of his Book of the Regiment of Health.</head>
+               <p>AFter Bathing, or Venery, or great
+<pb n="53" facs="tcp:56656:31"/> Exerciſe, bleed not by any means.</p>
+               <p>And alſo after a long ſickneſs.</p>
+               <p>They which ſerve in hot houſes, and take great pains in their calling to re<g ref="char:EOLhyphen"/>ſolve the Body, muſt not be let blood.</p>
+               <p>Bl<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed not in very hot nor very cold Weather.</p>
+               <p>The Spring and Autumn are beſt times to let blood in.</p>
+               <p>Bleed not in a peſtilent Air, cloudy, or ſtormy Weather, or when the South-wind blows.</p>
+               <p>In Summer bleed at eight in the mor<g ref="char:EOLhyphen"/>ning, in Winter at noon.</p>
+               <p>Let young men bleed in the firſt quar<g ref="char:EOLhyphen"/>ter of the Moon, and old in the laſt.</p>
+               <p>Sanguine men muſt bleed in the firſt quarter, Cholerick in the ſecond, Phleg<g ref="char:EOLhyphen"/>matick in the third, and Melancholick in the fourth.</p>
+               <p>If the Moon be in a ſign with a evil aſ<g ref="char:EOLhyphen"/>pect, or to any member, bleed not in that member</p>
+               <p>In <hi>Aries,</hi> bleed the Head, in <hi>Gemini,</hi> the Arms, in <hi>Cancer,</hi> the Median, in <hi>Sagit<g ref="char:EOLhyphen"/>tarius,</hi> the Thigh, in <hi>Aquarius,</hi> the Legs and Thighs, and in <hi>Piſces,</hi> the Feet. The other parts are ſafe at any time.</p>
+               <p>If the Moon be in <hi>Taurus, Virgo, Capri<g ref="char:EOLhyphen"/>corn,</hi>
+                  <pb n="54" facs="tcp:56656:32"/> it is bad to let blood, if in <hi>Cancer, Scorpio, Piſcis,</hi> indifferent, if in <hi>Aries, Libra, Sagittarius</hi> or <hi>Aquarius</hi> it is good.</p>
+               <p>Let Drunkards and Gluttons, and thoſe that are filled to loathing, abſtain from Bleeding.</p>
+               <p>If any want Blood-letting, and neg<g ref="char:EOLhyphen"/>lect it there wil be Impoſthumes inward and outward, the great and ſmall Scab, the Ring-worm, Synochus, Meazles, A<g ref="char:EOLhyphen"/>poplexy and Palſie, ſmall Pox and ſpit<g ref="char:EOLhyphen"/>ting of Blood, Quinzy, Plague, ſudden Death and Leproſie, and generally all ſickneſs of much Blood or corruption of Blood: and they that are inclinable to ſuch Diſeaſes, let them not neglect phle<g ref="char:EOLhyphen"/>botomy.</p>
+               <p>There are many evils by bleeding un<g ref="char:EOLhyphen"/>reaſonably. From often bleeding come Obſtructions, Dropſies, Age haſtneth on, the Appetite decaies and Stomach, weak<g ref="char:EOLhyphen"/>neſs of Heart and Liver, Trembling and Palſie, and weakneſs of all virtues both Natural and Animal.</p>
+               <p>He that is very muſculous and fleſhy, by accident, and he that is extenuated, and they which uſe to diet that breeds much blood, and live in idleneſs and pleaſure, and dwell in Countries where
+<pb n="55" facs="tcp:56656:32"/> there is little reſolution; and that eat much fleſh roaſted, and drink ſweet Wines, and uſe Baths, and no copulati<g ref="char:EOLhyphen"/>on, and exerciſe little, are more to bleed than others, and they who faſt and eat melancholick meats are to bleed leſs.</p>
+               <p>When Phlebotomy is uſed to evacuate and in a place near the Diſeaſe or the part where it is, then the firſt blood ought to be worſe than the ſecond, and the ſecond then the third, and if the con<g ref="char:EOLhyphen"/>trary happen, there is ſtil need of bleed<g ref="char:EOLhyphen"/>ing and Phyſick. But in ſome bodies that need little bleeding, it often hap<g ref="char:EOLhyphen"/>pens that the firſt is better than the ſe<g ref="char:EOLhyphen"/>cond, and then you may bleed again preſently.</p>
+               <p>Before bleeding it is good to exerciſe, move and watch to make it move better. The Member to bleed is to be rub'd and heated, and waſhed with warm Water, to make the Vein plainer and the blood freer.</p>
+               <p>The Chirurgeon muſt be yong, expert, and of quick ſight, not trembling or drunk.</p>
+               <p>If a weak-hearted Patient, or one ve<g ref="char:EOLhyphen"/>ry faint is to bleed, let him firſt eat Bread and drink aſtringent Wine.</p>
+               <pb n="56" facs="tcp:56656:33"/>
+               <p>They whoſe Blood is thick, immova<g ref="char:EOLhyphen"/>ble, and the Veins hidden, muſt be bath<g ref="char:EOLhyphen"/>ed ſome daies before, except the body be very plethorick.</p>
+               <p>Before bleeding let the Belly and Blad<g ref="char:EOLhyphen"/>der be free.</p>
+               <p>In thoſe that have an Impoſthume bleed while the colour of it changeth: but when there is a ſimple plenitude without an Impoſthume, expect not the change of blood, for the blood may be all a like, or good.</p>
+               <p>If the Blood be whitiſh and thin, loſe but little.</p>
+               <p>In Summer and Spring bleed in the right ſide in Autumn and Winter in the left.</p>
+               <p>In a venemous matter, bleed on the ſame ſide.</p>
+               <p>When there is great neceſſity open the ſame Vein twice in a day, or when you have not taken enough.</p>
+               <p>If after the Vein is opened the blood wil not flow, then it is good to cough and hawk, and clap the Patient upon the Shoulders.</p>
+               <p>Touch the Blood as it comes forth, if it be cold, ſtop it preſently, and alſo if it be very hot and thin, for in both caſes, you may fear ſwounding.</p>
+               <pb n="57" facs="tcp:56656:33"/>
+               <p>Take a drop of blood upon the Nail, if it flow off, and ſtand not firm, it is wateriſh, and muſt be preſently ſtop<g ref="char:EOLhyphen"/>ped</p>
+               <p>Or drop it into water, if it ſink, it is too thick, and if it diſperſe and ſwim, it is too watery, if it be in a mean, it is good.</p>
+               <p>After bleeding, Exerciſe not that day, but rejoyce at home, nor Bath that day, &amp; uſe no Venery till the fourth day, nor ſleep in the day.</p>
+               <p>Conſider alſo the ſubſtance of the Blood, it is either melancholick, phlegma<g ref="char:EOLhyphen"/>tick, ſanguine, pure, cholerick, or wa<g ref="char:EOLhyphen"/>tery.</p>
+               <p>Melancholy is the dregs of blood, it is black, and in the bottom of the Poringer, and when there is too much of this, it is no good ſign, then we may judge that the Patient is ſad, envious, and curi<g ref="char:EOLhyphen"/>ous, covetous, fearful and poor-ſpirited, ſuch muſt uſe things to clenſe and in<g ref="char:EOLhyphen"/>creaſe blood.</p>
+               <p>Flegm is white, ſlimy, unſavory, like whites of Egs, and it is in the blood next above the Melancholy, this muſt not be too much, and if there be much of it, we judge him to be flegmatick, naturally,
+<pb n="58" facs="tcp:56656:34"/> ſleepy, rude, and dull to action, and to ſpit much, but there ought to be more of this than of Melancholy.</p>
+               <p>Then follows pure blood, it ought to be of a purple colour, reddiſh or ruddy, of this there ought to be more, if there be much of it the Patient is ſanguine, and and free, amiable and cheerful, laughing and of a red colour, bold and bounti<g ref="char:EOLhyphen"/>ful.</p>
+               <p>Then follows Choler which is the froath of Blood, of a Saffron-colour, with glittering red, there ought to be leſs of this than of blood or flegm, and more than of melancholy.</p>
+               <p>If therefore there be a great quantity of this, we may judg the party cholerick, and by conſequence crafty, deceitful, wrathful, bold and prodigal, apt for a<g ref="char:EOLhyphen"/>ction, watchful and ſubtile.</p>
+               <p>Moreover you muſt conſider the wate<g ref="char:EOLhyphen"/>ry ſubſtance that ſwims at top when the blood is congealed, as whey when milk is curdled, and it is like Urine, if it be put into a Glaſs, and when this water is like the Urine of a ſound man whoſe blood it is, it is good, otherwiſe not.</p>
+               <p>And when this water is ſeparated more perfectly from the blood, the better it is,
+<pb n="59" facs="tcp:56656:34"/> and the better is the digeſtion and de<g ref="char:EOLhyphen"/>coction in the Liver. And the contrary.</p>
+               <p>This water muſt be in the blood to make it thin, that it may paſs more free through the great Veins and ſmall, and ſo come to the members.</p>
+               <p>Therefore it is not good that blood ſhould be without this water.</p>
+               <p>For it wanted ſhew, drineſs and thick<g ref="char:EOLhyphen"/>neſs of blood, this is in ſuch us faſt much, and watch, and eat dry and hot meats, and that ſtudy and exerciſe much, and in ſome that are wel.</p>
+               <p>Moreover it is not good that too much water be in the blood, for it would ſhew defect of digeſtion, either in reſpect of meat or drink, or in reſpect of the parts that cannot convert the meat into blood, and it ſhews alſo too much coldneſs and moiſtneſs of blood, and weakneſs of body.</p>
+               <p>Hence it is that they who have cold Stomachs, and Livers, and Veins, and eat cold and moiſt Meats, and much, and eſ<g ref="char:EOLhyphen"/>pecially drink much, and exerciſe little, and faſt not, nor watch, have ſuch blood.</p>
+               <p>Alſo in Blood there is a fleſhy Sub<g ref="char:EOLhyphen"/>ſtance declining to white, for the Blood beginning to whiten in the Veins, becauſe
+<pb n="60" facs="tcp:56656:35"/> the farther digeſtion to convert it into Members proceeds in whitning. This dige<g ref="char:EOLhyphen"/>ſtion begins in the great veins, and end in the ſmall with the Members of the third digeſtion, namely at the outward ſolid Members of the whole Body.</p>
+               <p>This Subſtance is fleſh-like, and ap<g ref="char:EOLhyphen"/>pears manifeſtly in Blood after it is wa<g ref="char:EOLhyphen"/>ſhed, and the fatter, moiſter, or more wa<g ref="char:EOLhyphen"/>tery the Blood is, the leſs there is in it of this ſubſtance, and the thicker (except it exceed the temper) and leſs far, and with<g ref="char:EOLhyphen"/>out water, the more of this fleſhy ſub<g ref="char:EOLhyphen"/>ſtance is to be ſeen.</p>
+               <p>Therefore from a great quantity of this white ſubſtance, is ſignified the good di<g ref="char:EOLhyphen"/>geſtion in the Veins, and the pliableneſs of the Blood to turn into Members, eſpe<g ref="char:EOLhyphen"/>cially when you feel it with your hands. And when there are no great things con<g ref="char:EOLhyphen"/>tained in it, that are not hard, but will crumble with the fingers. For by ſuch there is ſignified an inclination to a Le<g ref="char:EOLhyphen"/>proſie.</p>
+               <p>Moreover if thou wouldſt know the ſubſtance of the whole blood, cut it when it is congealed with a knife or thin ſtick, and if it reſiſt not but cut eaſily, it ſigni<g ref="char:EOLhyphen"/>fies the ſubtility of the blood; but if it
+<pb n="61" facs="tcp:56656:35"/> divide with difficulty, then it ſignifies ſlimineſs and groſſneſs of Blood.</p>
+               <p>And if Blood wil not be cut, though it be eaſily divided as it is in Oyl, and wa<g ref="char:EOLhyphen"/>ter and other moiſt things which are eaſi<g ref="char:EOLhyphen"/>ly divided, though not cut, that blood is too thin, and that thinneſs argues want of digeſtion.</p>
+               <p>And when blood is eaſily pricked but not cut then it is ſlimie, and that blood is commonly flegmatick.</p>
+               <p>And when it is cut but with reſiſtance, then the blood is groſs, but not viſcous or clammy.</p>
+               <p>You muſt conſider alſo of the colour of blood for if in one part of the Porin<g ref="char:EOLhyphen"/>ger it appear of one colour, and in ano<g ref="char:EOLhyphen"/>ther of another colour, as in a Pigeons neck, it ſignifies diverſities of evil hu<g ref="char:EOLhyphen"/>mors.</p>
+               <p>Therefore we muſt conſider the true fixed colour of the blood; it is red and purple, not dark red, and that argues good blood.</p>
+               <p>If it be a glittering red, it argues pre<g ref="char:EOLhyphen"/>dominant choler, and alſo if it be like Saffron. If it be froathy, it ſhews wind. If it be white or livid, or blew, it ſignifies cold and predominant flegm, and eſpeci<g ref="char:EOLhyphen"/>ally
+<pb n="62" facs="tcp:56656:36"/> if the blood be ſlimie, and there are other ſigns of flegm.</p>
+               <p>Theſe colours may come from burn<g ref="char:EOLhyphen"/>ing, as appears in conſumptive and le<g ref="char:EOLhyphen"/>prous perſons.</p>
+               <p>Green ſignifies burning, and ſpecially of choler.</p>
+               <p>Black and Blew, ſignifies natural me<g ref="char:EOLhyphen"/>lancholy, or that which is burnt.</p>
+               <p>You muſt alſo conſider the taſt, for it ought to be ſweet, if it be unſavory, it ſignifies flegm predominant, if bitter, choler, if ſower or brackiſh, melancholy and ſour flegm, if it be ſalt, it ſignifies ſalt flegm and aduſtion of humors.</p>
+               <p>The ſcent is alſo to be conſidered, if it be ſweet and pleaſant, it is good if it ſtink, it ſhews great putrefaction in the humors.</p>
+               <p>Moreover if blood drawn do quickly coagulate or congeal, it is too groſs, if it be long and ſlow to congeal, it is too thin and undigeſted.</p>
+               <p>If it be in a mean, the blood is indiffe<g ref="char:EOLhyphen"/>rent.</p>
+            </div>
+            <div type="subpart">
+               <pb n="63" facs="tcp:56656:36"/>
+               <head>APHORISMS <hi>of</hi> Avicen, Rhaſis, Aetius, Montagnanus, Savanarola, <hi>and</hi> Damaſcen, <hi>and others.</hi>
+               </head>
+               <p>THey that uſe much Blood-letting in Youth, are cured after ſixty ſooner than others, and their natural heat is choaked, eſpecially if they are of a cold complexion.</p>
+               <p>They who dwel in the fourth or ſixt cli<g ref="char:EOLhyphen"/>mate, may loſe more blood than they that live in the ſeventh, firſt, ſecond or third.</p>
+               <p>They who have weak Stomachs, and cold weak Hearts and Livers, and Cold, and have cold Diſeaſes, muſt not be let blood, nor melancholick perſons, except their veins be ſwollen. Nor pale, lean, ſtarved, or ſuch as eat melancholick food, nor ſuch as uſe too much Venery, nor ſuch as have a Dyſentery or Iliack, or are much bound in Belly, nor ſuch as have not bodies prepared, nor ſuch as are ſeventy, except they be ſtrong, and have broadful veins, and uſed it, and when there is neceſſity.</p>
+               <pb n="64" facs="tcp:56656:37"/>
+               <p>At ſixty open not the Cephalick.</p>
+               <p>At fifty open not the Median.</p>
+               <p>At ſeventy take heed of opening the black vein.</p>
+               <p>It is good for phlegmatick perſons to open a Vein when the Moon is in <hi>Aries</hi> or <hi>Sagittarius</hi>
+               </p>
+               <p>For Melancholick, when ſhe is in <hi>Libra</hi> or <hi>Aquarius.</hi>
+               </p>
+               <p>For Cholerick, when ſhe is in <hi>Cancer</hi> or <hi>Piſces.</hi>
+               </p>
+               <p>In the New and Full, abſtain from Phlebotomy.</p>
+               <p>Let Youths from fourteen to twenty five bleed in the firſt quarter.</p>
+               <p>From twenty five to thirty five, in the ſecond.</p>
+               <p>From thirty five to ſixty five, in the third quarter of the Moon.</p>
+               <p>Bleed in the morning when the Sun is riſen after an hour, two or more of ſleep.</p>
+               <p>After noon, open the Head, Hand, and Feet veins, and the Arms in the morning.</p>
+               <p>Let old and ſick people eat Broath and drink Wine an hour or two before.</p>
+               <p>They who ſweat eaſily and often want Blood-letting.</p>
+               <p>Uſual accuſtomed Bleeding is not to be omitted without danger.</p>
+               <pb n="65" facs="tcp:56656:37"/>
+               <p>After Bleeding, drink thin and good Wine: avoid Mead, Ale, Fiſh, and what breeds bad blood.</p>
+               <p>Bleeding when there is no neceſſity doth more hurt than good.</p>
+               <p>After Bleeding, avoid bad Air, eat white Bread, wel baked Veal, Hens, Chickens, Lamb, rear Eggs, and that which breeds good humors and blood, drink pure Wine cleer and thin, abſtain from Cheeſe, Milk, Herbs, Fiſh, Ale, and Meath, Anaer, Sadneſs and Copulation.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="part">
+            <pb facs="tcp:56656:38"/>
+            <pb n="67" facs="tcp:56656:38"/>
+            <head>OF CUPPING AND SCARIFYING, And diſeaſes cured thereby</head>
+            <div type="subpart">
+               <head>The Time and Age of Cupping and Scarifying.</head>
+               <p>
+                  <seg rend="decorInit">S</seg>Carifie not before four years old, nor after ſixty.</p>
+               <p>Cup not nor ſcarifie in the full or new Moon.</p>
+               <p>It is good when the Moon is in <hi>Cancer, Libra, Scorpio, Aquarius</hi> and <hi>Piſces:</hi> but not in other ſigns. It is good in the ſe<g ref="char:EOLhyphen"/>cond or third hour of the day, and after an hour they may eat and drink.</p>
+               <p>Let the Body or part to be ſcarified, be
+<pb n="68" facs="tcp:56656:39"/> waſhed an hour, or half an hour with hot water before and rubbed.</p>
+               <p>It is good to uſe Cupping-glaſſes after Evacuation of the Body. For it is not good in Plethory, or to any part that hath a flegmon.</p>
+            </div>
+            <div type="subpart">
+               <head>The Uſe and Profit of Cupping in General.</head>
+               <head>Cupping without Scarification.</head>
+               <p>Is good to turn an Impoſthume from a a noble part to an ignoble or inferior part. To draw heat to a Member weak<g ref="char:EOLhyphen"/>ned by cold. Againſt the Cholick, if ap<g ref="char:EOLhyphen"/>plied below or above the Navel. To take away pain. Againſt Diſlocations. To draw out that which lieth deep to the skin outward. To evacuate wind and hu<g ref="char:EOLhyphen"/>mors. To ſtop the flux and Haemor<g ref="char:EOLhyphen"/>rhoids. To heat a Member, and to draw blood and heat it. To reduce a Member into its place. Againſt pain of the Ma<g ref="char:EOLhyphen"/>trix, if they be faſtned under the Navel, and the woman ſit warm with them up<g ref="char:EOLhyphen"/>on her. Againſt extraordinary flux o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Terms, if applied under both Breaſt an hour or more. Againſt Bleeding at the
+<pb n="69" facs="tcp:56656:39"/> Noſe, applied to the Liver, if the right Noſtril bleed, and upon the Spleen, if the left. Againſt a peſtilent Botch to draw venom from within. Againſt a Rupture in the Groyn. To divert blood that flow<g ref="char:EOLhyphen"/>eth immoderately from any part or place. To ſtop the fluxes of the ſtomach. To ſtop blood, applied to the oppoſite parts. To attract blood, extract poy<g ref="char:EOLhyphen"/>ſon. Againſt a cold Stomach, if applied to it. To remove Wind.</p>
+            </div>
+            <div type="subpart">
+               <head>The Uſe of Cupping-glaſſes with or without Scarification, accor<g ref="char:EOLhyphen"/>ding to Places and Parts.</head>
+               <p>
+                  <hi>Cupping-glaſſes upon the Head; are good.</hi>
+               </p>
+               <p>Againſt Madneſs, Dizineſs, Baldneſs, Scabs in the Eyes, Bothor, ſticking out of the nap of the Neck, and other Diſeaſes.</p>
+               <p>
+                  <hi>They hurt</hi>
+               </p>
+               <p>The Underſtanding, Memory. Cauſe aſtoniſhment, and haſten madneſs, in dry Brains.</p>
+               <p>
+                  <hi>Cupping-glaſſes to the Forehead, are good.</hi>
+               </p>
+               <p>Againſt pain in the hinder-part of the Noſe,
+<pb n="70" facs="tcp:56656:40"/> Head, heavineſs of Head and ſwelling, diſeaſe of the Brain, madneſs and doting.</p>
+               <p>
+                  <hi>They are good to the Fore<g ref="char:EOLhyphen"/>head, for the face</hi>
+               </p>
+               <p>In old diſeaſes of it. Impetigo, Ulcers, Leproſie, Scabs, Morphew.</p>
+               <p>And alſo diſeaſes of the Eyes and Me<g ref="char:EOLhyphen"/>grim. But</p>
+               <p>
+                  <hi>They hurt</hi>
+               </p>
+               <p>The Reaſon and Underſtanding.</p>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>nder the Chin, they are good.</hi>
+               </p>
+               <p>Againſt Puſtles and Tumors in the Mouth, Tooth-diſeaſes and Gums. Spots in the Face, and the like. Againſt the In<g ref="char:EOLhyphen"/>firmities in the skin. Of the Head, Throat, Jaws, Cheeks.</p>
+               <p>
+                  <hi>Applied to the Back-bone between the Neck and Shoulders.</hi>
+               </p>
+               <p>Againſt diſeaſes in the Head, Face, Neck, Teeth, Noſtrils, Eyes and Mouth, Heavineſs, Impetigo, Quinſie, and are in<g ref="char:EOLhyphen"/>ſtead of opening the Cephalick or Medi<g ref="char:EOLhyphen"/>an. But</p>
+               <p>
+                  <hi>They hurt</hi>
+               </p>
+               <p>The Memory, and make the Head ſhake.</p>
+               <p>
+                  <hi>Applied between the Shoulders, right againſt the Heart and Stomach, they are good.</hi>
+               </p>
+               <p>Againſt diſeaſes of the Breaſt, Neck,
+<pb n="71" facs="tcp:56656:40"/> Shoulders. Againſt Aſthma, Cramp, Trembling of Heart from blood, and diſ<g ref="char:EOLhyphen"/>eaſes in the Throat, and are inſtead of o<g ref="char:EOLhyphen"/>pening the Baſilick. But</p>
+               <p>
+                  <hi>They hurt</hi>
+               </p>
+               <p>The Stomach and Heart, and make a trembling without blood.</p>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>nder the Breaſt, they are good</hi>
+               </p>
+               <p>Againſt diſeaſes thereof, and Aſthma.</p>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>pon the Liver,</hi>
+               </p>
+               <p>If it be dry or inflamed.</p>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>pon the Back.</hi>
+               </p>
+               <p>Againſt Diſeaſes there.</p>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>pon the Stomach, they are good</hi>
+               </p>
+               <p>Againſt Tumor in it, cold and foul hu<g ref="char:EOLhyphen"/>mors.</p>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>pon the Hands,</hi>
+               </p>
+               <p>Againſt all diſeaſes of the Head, Eyes and Ears.</p>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>pon the Kidneys and Reins,</hi>
+               </p>
+               <p>Againſt Inpoſthumes of the Hips and Scabs, and Haemorrhoids, Gout, Lepro<g ref="char:EOLhyphen"/>ſie, Itch and Scabs of the back, Wind in the Mother, and other cold Wind in the bladder, diſeaſes of the Thighs, and all parts beneath.</p>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>nder the Navel,</hi>
+               </p>
+               <p>Againſt diſeaſes of the Matrix, Cholick and Gripings.</p>
+               <pb n="72" facs="tcp:56656:41"/>
+               <p>
+                  <hi>To the Hypocondria.</hi>
+               </p>
+               <p>To ſtop bleeding at the Noſe, and Womb.</p>
+               <p>
+                  <hi>To the Loyns.</hi>
+               </p>
+               <p>They provoke the Hoemorrhoid, take pain from the Back, Mother and Loyns, Scabs from the Thighs, Impoſthumes and Tumors, and allay Venery or Luſt.</p>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>pon the Buttocks.</hi>
+               </p>
+               <p>They clenſe the Blood of the whole body, and are good for the ſides, Loyns, and Breaſt, and abate Luſt.</p>
+               <p>
+                  <hi>Before in the Hips.</hi>
+               </p>
+               <p>They are good againſt Impoſthumes in the Stones, and ſtarting forth of the Ribs and Hips.</p>
+               <p>
+                  <hi>To the hinder part of the Head.</hi>
+               </p>
+               <p>They are good againſt Impoſthumes Strains in the Buttocks.</p>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>nder the Ham.</hi>
+               </p>
+               <p>Againſt beating in the Ham from hot humors, againſt Strains and Ulcers in the Legs and Feet.</p>
+               <p>
+                  <hi>To the Thighs.</hi>
+               </p>
+               <p>They are good for the whole body, againſt ſwollen and impoſtumed But<g ref="char:EOLhyphen"/>tocks, pains in the Kidnies, and Bladder, Fluxes in the Eyes, Diſeaſes in the head. Againſt hot burning Impoſthumes in the
+<pb n="73" facs="tcp:56656:41"/> Knees, Evils in the Breaſt and Back. Im<g ref="char:EOLhyphen"/>poſthumes in the Cods, applied inward to the Groyn. Againſt wounds in the Hip, and Thighs. Againſt old pain in the Mother, and to purge it from Super<g ref="char:EOLhyphen"/>fluities. Againſt Impoſthumes in the Hands and Strains, applied behind. To provoke Haemorrhoids and the Terms, they clenſe the Blood and take away Plethory, and are as good as any Blood-letting.</p>
+               <p>
+                  <hi>To the Soals of the Feet.</hi>
+               </p>
+               <p>They provoke the Terms, are good a<g ref="char:EOLhyphen"/>gainſt the Sciatica, Gout, Megrim, and in<g ref="char:EOLhyphen"/>ſtead of Phlebotomy in the Feet-veins.</p>
+            </div>
+            <div type="subpart">
+               <head>A CATALOGUE of the Diſ<g ref="char:EOLhyphen"/>eaſes to be cured by Scarification and Cupping</head>
+               <list>
+                  <head>A</head>
+                  <item>AGainſt <hi>Anctae</hi> apply them between both.</item>
+                  <item>
+                     <hi>Angina</hi> or Quinzy, apply them often to the Shoulders with Scarification, and cup the Thighs.</item>
+                  <item>
+                     <hi>Anus</hi> or Arſe-hole hot Impoſthume,
+<pb n="74" facs="tcp:56656:42"/> Cup the Loyns and the upper part of the Buttocks.</item>
+                  <item>
+                     <hi>Anus</hi> or Fundament out: Cup the Muſ<g ref="char:EOLhyphen"/>cles of the Back.</item>
+                  <item>Apoplexy: Cup and Scarifie Neck and Shoulders, and the Thighs.</item>
+                  <item>Apoſtems and Strains in the Buttocks: Cup the Hips behind.</item>
+                  <item>Aſthma: Scarifie between the Shoul<g ref="char:EOLhyphen"/>ders where the Neck and the Back joyn together.</item>
+                  <item>
+                     <hi>Aurium</hi> or the Ears diſeaſes: Cup in the Wriſts and under the hinder part of the Head on both ſides the Neck.</item>
+                  <item>For Ears bleeding: Cup upon the Shoulders.</item>
+               </list>
+               <list>
+                  <head>B.</head>
+                  <item>Baſilick vein is as good as opened when the Cupping-glaſſes are applied between the Shoulders under the Neck, where it is joyned to the Back.</item>
+                  <item>
+                     <hi>Bothor:</hi> Cupping behind in the Head or Pole, or before in the Head about the Crown, or above the Forehead is good againſt it.</item>
+               </list>
+               <list>
+                  <head>C.</head>
+                  <item>
+                     <hi>Canicies</hi> or Baldneſs: Cup behind in the Head, and in the Crown before, or above the Forehead.</item>
+                  <pb n="75" facs="tcp:56656:42"/>
+                  <item>Cephalick vein is as good as opened, if you apply Cupping-glaſſes upon the top of the Head behind, neer the Veins on the ſides of the Neck that aſcend to the Head.</item>
+                  <item>
+                     <hi>Capitis</hi> or Head-diſeaſes, are cured by Cupping the Neck and Shoulders with Scarification, and by Cupping upon the top of the hinder part of the Head neer the two Veins in the ſide of the Neck that aſcend to the Head, or by Cupping with Scarification in the Wriſts.</item>
+                  <item>The Head is clenſed by Cupping un<g ref="char:EOLhyphen"/>der the Chin.</item>
+                  <item>And upon the Fundament, Cupping draws from the Head.</item>
+                  <item>Trembling of the Head: by Cupping upon the top of the hinder part of the Head, neer the two Veins in the ſide of the Neck that aſcend to the Head.</item>
+                  <item>For pain in the Head behind, Scarifie the Forehead</item>
+                  <item>Colick, againſt its pain, Cup upon the Navel.</item>
+                  <item>
+                     <hi>Cordis</hi> or Heart-trembling, Scarifie between the Shoulders.</item>
+                  <item>
+                     <hi>Corpus</hi> or body is refreſhed, by Cup<g ref="char:EOLhyphen"/>ping the Fundament.</item>
+                  <item>
+                     <hi>Coxae</hi> or Hips, are cured of Impoſt<g ref="char:EOLhyphen"/>humes,
+<pb n="76" facs="tcp:56656:43"/> Scabs and Strains, by Cupping within ſide, or on the Loyns, or that part that contains five Spondils.</item>
+                  <item>For the two internal parts of the Hips, Cup between the two <hi>Anchae.</hi>
+                  </item>
+                  <item>
+                     <hi>Crurum</hi> or Thighs, are cured of Scabs, Ulcers and Strains by Cupping before in the Hips, and Scarifying under both Knees.</item>
+               </list>
+               <list>
+                  <head>D.</head>
+                  <item>
+                     <hi>Delirium</hi> to cure, Scarifie the Neck and Shoulders.</item>
+                  <item>
+                     <hi>Dentium doloribus,</hi> or Tooth-ach, Cup under the Chin, and upon the top of the hinder part of the Head near the two Veins on the ſides of the Neck that aſ<g ref="char:EOLhyphen"/>cend to the Head.</item>
+                  <item>
+                     <hi>Diarrhoea:</hi> to cure, Cup upon the Re<g ref="char:EOLhyphen"/>gion of the Spleen.</item>
+                  <item>
+                     <hi>Dyſpnoea</hi> or difficult Breathing, Cup the Shoulders.</item>
+                  <item>
+                     <hi>Dolor</hi> to allay, Cup upon the part.</item>
+                  <item>
+                     <hi>Dorſi dolores</hi> or Back-pains, upon the Loyns and Back.</item>
+                  <item>
+                     <hi>Dolor</hi> of the Shoulders: Cup upon the part between the Shoulder-blades under the Neck, where the Neck is joyn<g ref="char:EOLhyphen"/>ed to the Back.</item>
+                  <item>
+                     <hi>Dolor</hi> of the Throat: Cup in the ſame place upon the Throat.</item>
+                  <pb n="77" facs="tcp:56656:43"/>
+                  <item>
+                     <hi>Dolor</hi> of the Colick; Cup upon the Navel.</item>
+               </list>
+               <list>
+                  <head>E.</head>
+                  <item>Againſt <hi>Elephantiaſis:</hi> Cup the Loyns or in the part that contains five Spon<g ref="char:EOLhyphen"/>dils. Alſo Scarifie the Thighs and Feet.</item>
+                  <item>Epilepſie: firſt Cup the Thighs, and then the part where the Neck is joyned to the Cranium, or Cup the Shoulder-blades.</item>
+               </list>
+               <list>
+                  <head>F.</head>
+                  <item>Againſt Face-evils: Cup under the Chin, and upon the top of the hinder part of the Head near the two Veins in the ſide of the Neck that aſcend to the Head.</item>
+                  <item>Fevers are certainly cured by Scarifi<g ref="char:EOLhyphen"/>cation upon the Back bone with ten or twelve Cupping-glaſſes.</item>
+                  <item>Flux and Blood that corrodes be<g ref="char:EOLhyphen"/>neath: Cup with Scarification upon the Buttocks at the bottom of the Loyns: or uſe Cupping without Scarification up<g ref="char:EOLhyphen"/>on the ſame parts, and about the Navel, and about the right and left Hypochon<g ref="char:EOLhyphen"/>dria.</item>
+               </list>
+               <list>
+                  <head>G.</head>
+                  <item>Gums-evils, Scarifie under the Chin.</item>
+                  <item>Gibboſity, Cup the Buttocks or the
+<pb n="76" facs="tcp:56656:44"/> 
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="77" facs="tcp:56656:44"/> 
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="78" facs="tcp:56656:45"/> Brawn of the Thighs.</item>
+                  <item>Gullet evil or pain: Cup between the Shoulder-blades under the Neck where it is joyned to the Back.</item>
+                  <item>
+                     <hi>Guttur</hi> or Throat: Cup under the Chin.</item>
+               </list>
+               <list>
+                  <head>H.</head>
+                  <item>Haemorrhoids to move: Cup the Loyns.</item>
+                  <item>Haemorrhoids to ſtop: Cup between the Shoulders without Scarification or with, or about the Loyns and Reins which is better.</item>
+                  <item>
+                     <hi>Humerorum dolores</hi> or the Shoulder-pain: Cup between the Shoulder-blades under the Neck where it is joyned to the Back.</item>
+               </list>
+               <list>
+                  <head>I.</head>
+                  <item>Jaundies yellow, Cup upon the Liver, under the right Shoulder, or under the Ribs.</item>
+                  <item>
+                     <hi>Jecoris</hi> or Liver-diſeaſes, Scarifie in the Region of the Liver.</item>
+                  <item>Liver Inflamed and the like, Scarifie the right Hypochondrium.</item>
+                  <item>Iliack Paſſion: Cup the upper part of the Belly.</item>
+                  <item>
+                     <hi>Inſanium</hi> or Madneſs: Scarifie Neck and Shoulders, and before in the Head
+<pb n="79" facs="tcp:56656:45"/> about the Crown, and above the Fore<g ref="char:EOLhyphen"/>head.</item>
+                  <item>Incontinency: Scarifie Buttocks and Loyns.</item>
+                  <item>Inteſtines evil: Cup the Fundament.</item>
+                  <item>
+                     <hi>Oſſis exitum</hi> or Bone out of joynt: Cup upon the <hi>Ancha.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>L.</head>
+                  <item>Againſt <hi>Lactis abundantia,</hi> too much Milk, Scarifie the Thighs.</item>
+                  <item>Luſt, Scarifie the Loyns and Buttocks.</item>
+                  <item>
+                     <hi>Linguae Magnitudinem</hi> or Tongue too big: Cup and Scarifie upon the Shoul<g ref="char:EOLhyphen"/>ders in the Neck.</item>
+                  <item>Tongue Impoſtume: Scarifie behind the Ears, or Cup under the Chin and Neck.</item>
+                  <item>
+                     <hi>Lippitudo</hi> or Blear-eyedneſs: Scarifie Neck and Shoulders.</item>
+                  <item>Loyns diſeaſes: Scarifie the upper part of the Buttocks and the bottom of the Loyns.</item>
+               </list>
+               <list>
+                  <head>M.</head>
+                  <item>Mandibles to mundifie, Cup under the Chin.</item>
+                  <item>Againſt Madneſs: Scarifie Neck and Shoulders, or Cup above the Forehead.</item>
+                  <item>Mother-diſeaſes: Scarifie the Thighs below, and cup the Navel and againſt the Knees.</item>
+                  <pb n="80" facs="tcp:56656:46"/>
+                  <item>Mother windy: Cup the Loyns or that part that contains five Spondils im<g ref="char:EOLhyphen"/>mediately among the twelve.</item>
+                  <item>Mother fallen and Suffocated: Cup the Groyns, Hips and Pecten.</item>
+                  <item>
+                     <hi>Menſtrua</hi> or Terms to provoke, Cup the Thighs and upon the Heels, and the muſcles of the Legs, properly for fat Women, alſo in the bending of the Ham, or between the Thighs to the Privities.</item>
+                  <item>
+                     <hi>Menſtrua</hi> to ſtop, Cup under the Breaſts with and without Scarification, let the Glaſſes be great, and they be ap<g ref="char:EOLhyphen"/>plied upon both Anchae.</item>
+                  <item>Againſt <hi>Menſtrua alba</hi> or Whites, Sca<g ref="char:EOLhyphen"/>rifie the Buttocks, it is good alſo againſt corruption of the Menſtrua.</item>
+                  <item>
+                     <hi>Mictum ſanguinis</hi> or piſſing of Blood: Cup upon the Reins, Bowels, Pecten, and Anchae, eſpecially about the Bladder.</item>
+               </list>
+               <list>
+                  <head>N.</head>
+                  <item>Againſt Noſe and Noſtrils evils, Cup upon the top of the hinder part of the Head near the two veins in the ſide of the Neck aſcending to the Head.</item>
+                  <item>Noſe-ulcer: Cup in the nape of the Neck with Scarification.</item>
+                  <item>Noſe-bleeding: Cup the Shoulders
+<pb n="81" facs="tcp:56656:46"/> and Buttocks with light Scarification alſo upon the Liver, without Scarifica<g ref="char:EOLhyphen"/>tion, if the right Noſtril bleed, and upon the Spleen if the left, and upon both, if from both: or upon the Sumen which is beſt. Alſo upon the Thighs within: Al<g ref="char:EOLhyphen"/>ſo upon the Neck and Shoulders with light Scarification.</item>
+                  <item>If the Flux be Arterial: Cup upon the Region of the Heart and the Neck.</item>
+                  <item>
+                     <hi>Natibus</hi> or Buttocks, if in them there be an Impoſthume or Puſſi, Cup behind in the <hi>Coxae.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>O.</head>
+                  <item>Againſt <hi>Oculorum,</hi> of Eyes all Diſeaſes, Scarifie the top of the Forehead, the Crown and Neck, and in both Wriſts.</item>
+                  <item>Againſt Scabs about the Eyes, Dul<g ref="char:EOLhyphen"/>neſs, Inflammation, Tears and the like evils: Scarifie Neck and Shoulders, or between the Shoulder-blades.</item>
+                  <item>Againſt <hi>Omnia Vitia Corporis</hi> or all e<g ref="char:EOLhyphen"/>vils in the body: Cup and Scarifie the Buttocks and upon the Fundament.</item>
+                  <item>Ophthalmy, Cup the Shoulders.</item>
+                  <item>Againſt <hi>Oris Apoſtomata</hi> or Impoſt<g ref="char:EOLhyphen"/>humes in the mouth, Ulcers, Puſtles, Tu<g ref="char:EOLhyphen"/>mors, Scarifie the extremities of the Ears, and cup under the Chin and Neck.</item>
+                  <item>Againſt Stink of Mouth, Cup between
+<pb n="82" facs="tcp:56656:47"/> the Shoulder-blades.</item>
+               </list>
+               <list>
+                  <head>P.</head>
+                  <item>Againſt <hi>Palphebrarum</hi> or Eye-brows, Heavineſs, Thickneſs, or Scabs: Cup be<g ref="char:EOLhyphen"/>tween the Shoulders, &amp; upon the Thighs, and in the Spatula's &amp; nape of the Neck.</item>
+                  <item>
+                     <hi>Pannus:</hi> Scarifie the Neck.</item>
+                  <item>Againſt <hi>Pectoris vitia</hi> or Diſeaſes of the Breaſt, Impoſthumes, and Bloody Evils: Scarifie under the Breaſt or be<g ref="char:EOLhyphen"/>tween the two Shoulder-blades where the Neck is Joyned to the Back.</item>
+                  <item>Againſt <hi>Pedum Scabia</hi> or Scabs in the Feet and Tumors: Cup and Scarifie un<g ref="char:EOLhyphen"/>der both Hams.</item>
+                  <item>Againſt Feet inwardly pained: Scari<g ref="char:EOLhyphen"/>fie the Loyns.</item>
+                  <item>To bleed the Feet, Scarifie under both Ankles.</item>
+                  <item>Peripneumony: Cup and Scarifie the Buttocks.</item>
+                  <item>Againſt Phrenzies: Scarifie the Neck and Shoulders, and Cup the Shoulders and Buttocks.</item>
+                  <item>Pleuriſie: Cup between the Shoulders and the Buttocks and Thighs, and under the part pained with and without Scari<g ref="char:EOLhyphen"/>fication.</item>
+                  <item>
+                     <hi>Poplitis</hi> or Ham-beating from hot hu<g ref="char:EOLhyphen"/>mors, Cup in the Ham.</item>
+                  <pb n="83" facs="tcp:56656:47"/>
+                  <item>
+                     <hi>Podagram</hi> or Gout: Cup between the two Anchae or under both Hams, or in the Loyns, or in the part that contains the five immediate Spondils, or upon both the Alchab.</item>
+                  <item>
+                     <hi>Pupilla</hi> dilated: Cup the Neck and Shoulders, or Scarifie the Ear.</item>
+                  <item>Purge the whole body, and refreſh by Scarification in the Buttocks and Funda<g ref="char:EOLhyphen"/>ment.</item>
+               </list>
+               <list>
+                  <head>R.</head>
+                  <item>Againſt Reaſon confuſed: Cup the hin<g ref="char:EOLhyphen"/>derpart of the head, which lieth upon the ground, when a man lieth with his Face upwards, or Cup the fore part of the head, about the Crown, or above the Fore<g ref="char:EOLhyphen"/>head.</item>
+                  <item>Reins Scaby and Impoſthumed: Cup the Reins and Buttocks, and the Shoul<g ref="char:EOLhyphen"/>der-bones.</item>
+                  <item>Rupture in the Groyn, Cup between the two <hi>Anchae.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>S</head>
+                  <item>
+                     <hi>Sanguinem mundificare,</hi> to clenſe the Blood: Cup the Thighs.</item>
+                  <item>Saphena, its opening to ſupply: Cup in the Thighs neer the Privities.</item>
+                  <item>Againſt Scabs: Scarifie Loyns and Buttocks.</item>
+                  <item>Scabs of the Feet and Legs: Scarifie under both Hams.</item>
+                  <pb n="84" facs="tcp:56656:48"/>
+                  <item>Sciatica, Cup upon both Alchabs and Anchaes.</item>
+                  <item>Spaſm from Blood: Cup between both Shoulder-Bones, where the Neck and Back joyn together.</item>
+                  <item>Spleen-diſeaſes: Scarifie the left Hy<g ref="char:EOLhyphen"/>pochondrion or place of the Spleen.</item>
+                  <item>Againſt <hi>Spirandi difficultatem</hi> or diffi<g ref="char:EOLhyphen"/>culty of breathing: Cup and Scarifie be<g ref="char:EOLhyphen"/>tween the Shoulder-bones.</item>
+                  <item>Spitting of Blood and Matter: Cup upon the Buttocks, and about the Reins, or between the Shoulder-bones under the Neck, where it is joyned to the Back.</item>
+                  <item>Stomach-diſeaſes and weakneſs: Cup the Shoulders, if the pain be great, if the matter be thick, Scarifie the Buttocks. Alſo apply a great Cupping-glaſs to the mouth of the Stomach, or between the Shoulder-blades.</item>
+                  <item>Againſt Stomachs evil complexion with matter, Cup the Thighs, Buttocks, with Scarification.</item>
+                  <item>Stomachs Imoſthume, apply to it Cup<g ref="char:EOLhyphen"/>ping-glaſſes with Scarification to draw the Flux of the matter to the contrary part.</item>
+                  <item>
+                     <hi>Supercilliorum</hi> or Eye-brows heavineſs: Cup upon the Nocra or between the Shoulder-bones.</item>
+               </list>
+               <list>
+                  <pb n="85" facs="tcp:56656:48"/>
+                  <head>T.</head>
+                  <item>Againſt Teſticles impoſthumated: Cup before in the Hips.</item>
+                  <item>To draw from the whole body, Cup the Fundament.</item>
+                  <item>Againſt Trembling of the Head or ſha<g ref="char:EOLhyphen"/>king: Cup the top of the hinder part of the Head neer the two Veins in the ſide of the Neck aſcending to the Head.</item>
+                  <item>Trembling of the Heart, apply Cup<g ref="char:EOLhyphen"/>ping-glaſſes to the left Shoulder.</item>
+                  <item>Tumor of the Gums and Mouth, Cup upon the Chin.</item>
+                  <item>Againſt <hi>Tuſſim</hi> or Cough, Cup between the two Shoulder bones where the Neck is joyned to the Back.</item>
+               </list>
+               <list>
+                  <head>V.</head>
+                  <item>
+                     <hi>Varices,</hi> Cup the buttocks.</item>
+                  <item>Vein Median, opening ſupplied, if you Cup between the Shoulder-blades.</item>
+                  <item>Vein Cephalick ſupplied, Cup upon the top of the hinder part of the Head, neer the two veins in the ſide of the Neck aſcending to the Head.</item>
+                  <item>Vein baſilick ſupplied, by Cupping be<g ref="char:EOLhyphen"/>tween the two Shoulder-blades under the Neck where it is joyned to the Back.</item>
+                  <item>Againſt Venery, Scarifie the Loyns and Buttocks</item>
+                  <pb n="86" facs="tcp:56656:49"/>
+                  <item>Ventoſity of Belly: Cup the Navel.</item>
+                  <item>Ventricle-diſeaſes, Scarifie between the Shoulders.</item>
+                  <item>Vertigo, Cup upon the Shoulders, or the hinder part of the Head, or upon the Crown before on the top of the Fore<g ref="char:EOLhyphen"/>head.</item>
+                  <item>
+                     <hi>Veſicae</hi> or Bladder-Impoſthumes, Sca<g ref="char:EOLhyphen"/>rifie the Fundament.</item>
+                  <item>
+                     <hi>Veſicae</hi> or Bladder-wind, Cup the Reins or that the part that contains the five im<g ref="char:EOLhyphen"/>mediate Spondils and under both Hams.</item>
+                  <item>Againſt <hi>Viſus</hi> or ſight weak, Scarifie the Neck.</item>
+                  <item>Ulcers: the Loyns and Reins.</item>
+                  <item>Ulcers of Legs and Feet; the Hams.</item>
+                  <item>Vomiting: Cup the Shoulders with Scarification.</item>
+               </list>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:56656:49"/>
+         </div>
+      </body>
+   </text>
+</TEI>
